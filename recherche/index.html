@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recherche — Le Journal de la Cosmétique</title>
+  <meta name="description" content="Rechercher dans les articles du Journal de la Cosmétique : soins, maquillage, parfums, cheveux, corps et science des formules.">
+  <link rel="canonical" href="https://www.lejournalcosmetique.fr/recherche/">
+  <meta name="robots" content="noindex, follow">
+  <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+  <meta name="theme-color" content="#C8F135">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Le Journal de la Cosmétique">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:title" content="Recherche — Le Journal de la Cosmétique">
+  <meta property="og:description" content="Rechercher dans les articles du Journal de la Cosmétique : soins, maquillage, parfums, cheveux, corps et science des formules.">
+  <meta property="og:url" content="https://www.lejournalcosmetique.fr/recherche/">
+
+  <link rel="preconnect" href="https://images.unsplash.com" crossorigin>
+  <link rel="stylesheet" href="/assets/fonts.css">
+  <link rel="stylesheet" href="/assets/pages.css">
+  <link rel="stylesheet" href="/assets/search.css">
+  <link rel="preload" href="/assets/fonts/archivo-var-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/fragment-mono-latin.woff2" as="font" type="font/woff2" crossorigin>
+
+  <style>
+    .rch-page-form{ border:1px solid var(--hair-f); display:flex; align-items:center; gap:14px; padding:16px 20px; margin-top:8px; }
+    .rch-page-form svg{ width:19px; height:19px; flex:none; }
+    .rch-page-form svg circle, .rch-page-form svg path{ fill:none; stroke:var(--noir); stroke-width:2.2; }
+    .rch-page-form input{ flex:1; border:0; background:transparent; font-family:var(--sans); font-size:21px; font-weight:700; color:var(--noir); padding:4px 0; }
+    .rch-page-form input:focus{ outline:none; }
+    .rch-page-form input::placeholder{ color:#9A9A90; font-weight:500; }
+    #rch-page-etat{ margin-top:12px; font-family:var(--mono); font-size:10px; letter-spacing:.08em; text-transform:uppercase; color:var(--gris); }
+    #rch-page-res a{ display:grid; grid-template-columns:1fr auto; gap:5px 16px; align-items:baseline; padding:15px 6px; border-bottom:1px solid var(--hair); }
+    #rch-page-res a:hover{ background:rgba(200,241,53,.28); }
+    #rch-page-res .t{ grid-column:1; grid-row:1; font-weight:700; font-size:16px; line-height:1.3; }
+    #rch-page-res .t mark{ background:transparent; color:var(--cobalt); font-weight:800; }
+    #rch-page-res .rb{ grid-column:1; grid-row:2; font-family:var(--mono); font-size:9.5px; letter-spacing:.06em; text-transform:uppercase; color:var(--gris); }
+    #rch-page-res .mt{ grid-column:2; grid-row:1 / span 2; font-family:var(--mono); font-size:9.5px; text-transform:uppercase; color:var(--gris); white-space:nowrap; text-align:right; }
+    #rch-page-res .rch-vide{ padding:40px 0; text-align:center; }
+    #rch-page-res .rch-vide p{ font-size:16px; }
+    #rch-page-res .rch-vide .s{ margin-top:8px; font-family:var(--mono); font-size:10px; text-transform:uppercase; color:var(--gris); }
+  </style>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SearchResultsPage",
+    "url": "https://www.lejournalcosmetique.fr/recherche/",
+    "name": "Recherche — Le Journal de la Cosmétique",
+    "inLanguage": "fr-FR",
+    "isPartOf": { "@id": "https://www.lejournalcosmetique.fr/#website" }
+  }
+  </script>
+</head>
+<body>
+  <a class="skip" href="#contenu">Aller au contenu</a>
+
+  <div class="top">
+    <div class="wrap">
+      <span>Média indépendant — <b>Paris</b></span>
+      <span class="t-off"><b>48.8566° N, 2.3522° E</b></span>
+      <span data-date-jour>Édition du jour</span>
+      <span class="t-off">Catalogue : <b>en construction</b></span>
+    </div>
+  </div>
+
+  <header class="head">
+    <div class="wrap">
+      <a class="wordmark" href="/">Le Journal de la <span class="ac">Cosmétique</span></a>
+      <p class="tag">Tout le journal, en une page<br><b>les premiers articles arrivent</b></p>
+    </div>
+  </header>
+
+  <nav class="nav" aria-label="Navigation principale">
+    <div class="wrap">
+      <a href="/soin-visage/">Soin visage</a>
+      <a href="/maquillage/">Maquillage</a>
+      <a href="/parfum/">Parfum</a>
+      <a href="/cheveux/">Cheveux</a>
+      <a href="/corps/">Corps</a>
+      <a href="/decryptages/">Science</a>
+      <a class="rch-lien" href="/recherche/" data-rch-open>Rechercher <span class="kbd">⌘K</span></a>
+    </div>
+  </nav>
+
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Fil d’Ariane">
+      <ol>
+        <li><a href="/">Accueil</a></li>
+        <li aria-current="page">Recherche</li>
+      </ol>
+    </nav>
+  </div>
+
+  <header class="phead">
+    <div class="wrap">
+      <p class="lab">Catalogue</p>
+      <h1><span class="ac">Rechercher</span></h1>
+      <p class="sf">Le catalogue se remplira au fil des publications. La recherche fonctionne dès à présent sur les pages du journal.</p>
+    </div>
+  </header>
+
+  <main id="contenu" class="corps" id-page="recherche">
+    <div class="wrap">
+      <div id="rch-page">
+        <form class="rch-page-form" role="search" onsubmit="return false;">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8" stroke-linecap="round"/></svg>
+          <label for="rch-page-champ" style="position:absolute;left:-9999px">Rechercher un article</label>
+          <input id="rch-page-champ" type="search" name="q" placeholder="Rétinol, SPF 50, INCI, parfum…" autocomplete="off" spellcheck="false">
+        </form>
+        <p id="rch-page-etat">Aucun article publié pour l’instant</p>
+        <div id="rch-page-res"></div>
+
+        <div id="rch-page-tout">
+        <section class="vide" style="margin-top:38px;">
+          <p class="k">Catalogue en construction</p>
+          <p>Les premiers articles paraîtront prochainement. En attendant, la recherche porte sur les pages du journal.</p>
+          <p class="l"><a href="/notre-methode/">Notre méthode</a><a href="/a-propos/">La rédaction</a></p>
+        </section>
+        </div>
+      </div>
+
+      <section class="univers" aria-label="Les autres univers">
+        <h2>La classification des univers</h2>
+        <div class="grid">
+        <a class="el" href="/soin-visage/"><span class="z">01</span><span class="sym">So</span><span class="nom">Soin visage</span></a>
+        <a class="el" href="/maquillage/"><span class="z">02</span><span class="sym">Ma</span><span class="nom">Maquillage</span></a>
+        <a class="el" href="/parfum/"><span class="z">03</span><span class="sym">Pa</span><span class="nom">Parfum</span></a>
+        <a class="el" href="/cheveux/"><span class="z">04</span><span class="sym">Ch</span><span class="nom">Cheveux</span></a>
+        <a class="el" href="/corps/"><span class="z">05</span><span class="sym">Co</span><span class="nom">Corps</span></a>
+        <a class="el" href="/decryptages/"><span class="z">06</span><span class="sym">Sc</span><span class="nom">Science</span></a>
+        </div>
+      </section>
+
+    </div>
+  </main>
+
+  <footer>
+    <div class="mq" aria-hidden="true">
+      <div class="track">
+        <span>Le Journal de la Cosmétique<i>◇</i>La beauté, passée au crible<i>◇</i></span>
+        <span>Le Journal de la Cosmétique<i>◇</i>La beauté, passée au crible<i>◇</i></span>
+      </div>
+    </div>
+    <div class="wrap cols">
+      <span>© 2026 — Triaina, Paris</span>
+      <nav aria-label="Pied de page">
+        <a href="/a-propos/">À propos</a>
+        <a href="/notre-methode/">Notre méthode</a>
+        <a href="/contact/">Contact</a>
+        <a href="/mentions-legales/">Mentions légales</a>
+        <a href="/politique-de-confidentialite/">Confidentialité</a>
+      </nav>
+      <span>ISSN en cours d’attribution</span>
+    </div>
+  </footer>
+
+  <div class="rch" id="rch" role="dialog" aria-modal="true" aria-label="Rechercher sur le site">
+    <div class="rch-box">
+      <div class="rch-top">
+        <svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8" stroke-linecap="round"/></svg>
+        <label for="rch-champ" class="sr" style="position:absolute;left:-9999px">Rechercher un article</label>
+        <input id="rch-champ" type="search" placeholder="Rétinol, SPF 50, INCI, parfum…" autocomplete="off" spellcheck="false">
+        <button class="esc" type="button">Esc</button>
+      </div>
+      <p class="rch-etat"><span class="nb">Suggestions</span><span>Le Journal de la Cosmétique</span></p>
+      <div class="rch-res"></div>
+      <p class="rch-bas"><span><b>↑</b> <b>↓</b> naviguer</span><span><b>↵</b> ouvrir</span><span><b>Esc</b> fermer</span><span><b>⌘K</b> ou <b>/</b> rouvrir</span></p>
+    </div>
+  </div>
+
+  <script src="/assets/articles.js"></script>
+  <script src="/assets/search.js"></script>
+  <script src="/assets/site.js"></script>
+</body>
+</html>

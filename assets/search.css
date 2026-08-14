@@ -1,0 +1,83 @@
+/* ————————————————————————————————————————————————
+   Recherche — overlay commun à toutes les pages
+   Design system « Labo ». Dépend des variables de
+   pages.css (ou du <style> de l'accueil).
+   ———————————————————————————————————————————————— */
+
+.rch-lien{ display:inline-flex; align-items:center; justify-content:center; gap:9px; }
+.rch-lien .kbd{
+  font-family:"Fragment Mono",monospace; font-size:9px; letter-spacing:.04em;
+  border:1px solid rgba(12,12,10,.35); padding:2px 5px; color:#6F6F65;
+}
+.nav a:hover .kbd{ border-color:currentColor; color:inherit; }
+@media (max-width:900px){ .rch-lien .kbd{ display:none; } }
+
+.rch{
+  position:fixed; inset:0; z-index:300; display:none;
+  background:rgba(12,12,10,.55); backdrop-filter:blur(6px);
+  padding:clamp(40px,10vh,110px) 22px 40px;
+}
+.rch.on{ display:block; }
+.rch-box{
+  width:min(760px,100%); margin-inline:auto; background:#FBFBF4;
+  border:1px solid #0C0C0A; box-shadow:0 30px 70px -30px rgba(12,12,10,.7);
+  display:flex; flex-direction:column; max-height:min(76vh,720px);
+}
+.rch-top{ display:flex; align-items:center; gap:14px; padding:16px 20px; border-bottom:1px solid rgba(12,12,10,.75); }
+.rch-top .ic{ width:17px; height:17px; flex:none; }
+.rch-top .ic path, .rch-top .ic circle{ stroke:#0C0C0A; fill:none; stroke-width:2.2; }
+.rch-top input{
+  flex:1; border:0; background:transparent; font-family:"Archivo",sans-serif;
+  font-size:20px; font-weight:700; color:#0C0C0A; padding:4px 0;
+}
+.rch-top input::placeholder{ color:#9A9A90; font-weight:500; }
+.rch-top input:focus{ outline:none; }
+.rch-top .esc{
+  flex:none; background:none; border:1px solid rgba(12,12,10,.35); cursor:pointer;
+  font-family:"Fragment Mono",monospace; font-size:9.5px; letter-spacing:.08em; text-transform:uppercase;
+  color:#6F6F65; padding:5px 9px;
+}
+.rch-top .esc:hover{ background:#0C0C0A; color:#C8F135; border-color:#0C0C0A; }
+
+.rch-etat{
+  padding:9px 20px; border-bottom:1px solid rgba(12,12,10,.14);
+  font-family:"Fragment Mono",monospace; font-size:9.5px; letter-spacing:.08em; text-transform:uppercase; color:#6F6F65;
+  display:flex; justify-content:space-between; gap:12px;
+}
+.rch-etat b{ color:#0C0C0A; font-weight:400; }
+
+.rch-res{ overflow-y:auto; flex:1; }
+.rch-res a{
+  display:grid; grid-template-columns:1fr auto; gap:6px 16px; align-items:baseline;
+  padding:13px 20px; border-bottom:1px solid rgba(12,12,10,.14); text-decoration:none; color:inherit;
+}
+.rch-res a:last-child{ border-bottom:0; }
+.rch-res a:hover, .rch-res a.sel{ background:#C8F135; }
+/* colonnes explicites : sans cela, .mt (ligne définie) est placé avant le titre */
+.rch-res .t{ grid-column:1; grid-row:1; font-weight:700; font-size:15px; line-height:1.3; }
+.rch-res .t mark{ background:transparent; color:#2B3BE8; font-weight:800; }
+.rch-res a:hover .t mark, .rch-res a.sel .t mark{ color:#0C0C0A; text-decoration:underline; }
+.rch-res .rb{
+  grid-column:1; grid-row:2; font-family:"Fragment Mono",monospace; font-size:9.5px; letter-spacing:.06em;
+  text-transform:uppercase; color:#6F6F65;
+}
+.rch-res a:hover .rb, .rch-res a.sel .rb{ color:#0C0C0A; }
+.rch-res .mt{
+  grid-column:2; grid-row:1 / span 2; font-family:"Fragment Mono",monospace; font-size:9.5px;
+  text-transform:uppercase; color:#6F6F65; white-space:nowrap; text-align:right;
+}
+.rch-res a:hover .mt, .rch-res a.sel .mt{ color:#0C0C0A; }
+.rch-vide{ padding:34px 20px 38px; text-align:center; }
+.rch-vide p{ font-size:15px; color:#31312C; }
+.rch-vide .s{ margin-top:6px; font-family:"Fragment Mono",monospace; font-size:10px; text-transform:uppercase; color:#6F6F65; }
+
+.rch-bas{
+  padding:11px 20px; border-top:1px solid rgba(12,12,10,.75); background:rgba(12,12,10,.03);
+  display:flex; gap:18px; flex-wrap:wrap;
+  font-family:"Fragment Mono",monospace; font-size:9px; letter-spacing:.06em; text-transform:uppercase; color:#6F6F65;
+}
+.rch-bas b{ color:#0C0C0A; font-weight:400; border:1px solid rgba(12,12,10,.3); padding:1px 5px; }
+
+@media (prefers-reduced-motion:reduce){
+  .rch{ backdrop-filter:none; }
+}

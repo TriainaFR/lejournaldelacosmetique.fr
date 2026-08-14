@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+
+# Outils de session (hors périmètre du site)
+.claude/skills/
+
+# Prompts tiers — usage interne autorisé, redistribution publique non accordée.
+# Conservés en local dans docs/prompts-studio/, volontairement hors du dépôt.
+docs/prompts-studio/
+
+# Dépendances éventuelles
+node_modules/

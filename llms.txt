@@ -1,0 +1,28 @@
+# Le Journal de la Cosmétique
+
+> Le Journal de la Cosmétique est un média français indépendant consacré aux soins, au maquillage, aux parfums, aux cheveux et à la science des formules cosmétiques. Le site vient d'ouvrir : les premiers articles paraîtront prochainement, la méthode éditoriale est déjà publiée.
+
+Édité par Triaina (SAS, Paris), fondé en 2026. Directeur de la publication : Lucas Lecoq-Pellizzon.
+
+Méthode engagée publiquement : produits achetés au prix public (jamais d'échantillon de marque dans un comparatif), 21 jours de test minimum, deux profils de peau par essai, listes INCI relues ligne à ligne, allégations confrontées au règlement (CE) n° 1223/2009, à la base CosIng et aux avis de l'ANSM, sources citées et cliquables. Aucun lien d'affiliation, aucune relecture par les marques avant publication, guides révisés deux fois par an. Aucun article touchant à la santé de la peau n'est publié sans relecture par un professionnel de santé.
+
+## Le média
+
+- [À propos](https://www.lejournalcosmetique.fr/a-propos/) : genèse du journal, mission, charte éditoriale en quatre principes, direction de la publication, rattachement au groupe Triaina
+- [Notre méthode](https://www.lejournalcosmetique.fr/notre-methode/) : distinction entre ce qui est testé et ce qui est documenté, protocole de test en quatre règles, indice de preuve des actifs (volume d'études /30, qualité /30, taille d'effet /25, recul /15), relevé des prix et prix au litre, lecture des listes INCI, hiérarchie des sources, règles sur les visuels, indépendance, politique de correction
+- [Contact](https://www.lejournalcosmetique.fr/contact/) : formulaire, conditions de partenariat et d'envoi de produits, demandes juridiques — contact@lejournalcosmetique.fr
+- [Mentions légales](https://www.lejournalcosmetique.fr/mentions-legales/) : éditeur Triaina (SAS, RCS Paris 999 402 654), hébergement Railway/Cloudflare, propriété intellectuelle, responsabilité, section santé et cosmétovigilance
+- [Politique de confidentialité](https://www.lejournalcosmetique.fr/politique-de-confidentialite/) : aucun cookie, aucun traceur, aucun fichier de visiteurs ; services tiers, transferts hors UE, droits RGPD
+
+## Rubriques
+
+- [Soin visage](https://www.lejournalcosmetique.fr/soin-visage/) : hydratation, actifs, protection solaire, routines
+- [Maquillage](https://www.lejournalcosmetique.fr/maquillage/) : teint, lèvres, regard
+- [Parfum](https://www.lejournalcosmetique.fr/parfum/) : concentrations, familles olfactives, maisons
+- [Cheveux](https://www.lejournalcosmetique.fr/cheveux/) : soins, couleur, coiffage, cuir chevelu
+- [Corps](https://www.lejournalcosmetique.fr/corps/) : solaires, hydratation, rituels
+- [Science & décryptages](https://www.lejournalcosmetique.fr/decryptages/) : INCI, réglementation, labels, hygiène de vie
+
+## Formats publiés
+
+Guides d'achat (une catégorie, plusieurs formules comparées, un verdict chiffré), bancs d'essai (produits portés 21 jours sur deux profils de peau), décryptages (un actif, une allégation, une liste INCI) et enquêtes (labels, réglementation, stratégies de prix).
