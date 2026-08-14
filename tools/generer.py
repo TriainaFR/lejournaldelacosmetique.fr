@@ -17,7 +17,7 @@ import os, re, html
 from datetime import date
 
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SITE = "https://www.lejournalcosmetique.fr"
+SITE = "https://www.lejournaldelacosmetique.fr"
 AUJ = "13 août 2026"
 AUJ_ISO = "2026-08-13"
 AUJ_COURT = "13.08.2026"

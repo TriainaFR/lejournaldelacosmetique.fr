@@ -8,20 +8,20 @@ Méthode engagée publiquement : produits achetés au prix public (jamais d'éch
 
 ## Le média
 
-- [À propos](https://www.lejournalcosmetique.fr/a-propos/) : genèse du journal, mission, charte éditoriale en quatre principes, direction de la publication, rattachement au groupe Triaina
-- [Notre méthode](https://www.lejournalcosmetique.fr/notre-methode/) : distinction entre ce qui est testé et ce qui est documenté, protocole de test en quatre règles, indice de preuve des actifs (volume d'études /30, qualité /30, taille d'effet /25, recul /15), relevé des prix et prix au litre, lecture des listes INCI, hiérarchie des sources, règles sur les visuels, indépendance, politique de correction
-- [Contact](https://www.lejournalcosmetique.fr/contact/) : formulaire, conditions de partenariat et d'envoi de produits, demandes juridiques — contact@lejournalcosmetique.fr
-- [Mentions légales](https://www.lejournalcosmetique.fr/mentions-legales/) : éditeur Triaina (SAS, RCS Paris 999 402 654), hébergement Railway/Cloudflare, propriété intellectuelle, responsabilité, section santé et cosmétovigilance
-- [Politique de confidentialité](https://www.lejournalcosmetique.fr/politique-de-confidentialite/) : aucun cookie, aucun traceur, aucun fichier de visiteurs ; services tiers, transferts hors UE, droits RGPD
+- [À propos](https://www.lejournaldelacosmetique.fr/a-propos/) : genèse du journal, mission, charte éditoriale en quatre principes, direction de la publication, rattachement au groupe Triaina
+- [Notre méthode](https://www.lejournaldelacosmetique.fr/notre-methode/) : distinction entre ce qui est testé et ce qui est documenté, protocole de test en quatre règles, indice de preuve des actifs (volume d'études /30, qualité /30, taille d'effet /25, recul /15), relevé des prix et prix au litre, lecture des listes INCI, hiérarchie des sources, règles sur les visuels, indépendance, politique de correction
+- [Contact](https://www.lejournaldelacosmetique.fr/contact/) : formulaire, conditions de partenariat et d'envoi de produits, demandes juridiques — contact@lejournaldelacosmetique.fr
+- [Mentions légales](https://www.lejournaldelacosmetique.fr/mentions-legales/) : éditeur Triaina (SAS, RCS Paris 999 402 654), hébergement Railway/Cloudflare, propriété intellectuelle, responsabilité, section santé et cosmétovigilance
+- [Politique de confidentialité](https://www.lejournaldelacosmetique.fr/politique-de-confidentialite/) : aucun cookie, aucun traceur, aucun fichier de visiteurs ; services tiers, transferts hors UE, droits RGPD
 
 ## Rubriques
 
-- [Soin visage](https://www.lejournalcosmetique.fr/soin-visage/) : hydratation, actifs, protection solaire, routines
-- [Maquillage](https://www.lejournalcosmetique.fr/maquillage/) : teint, lèvres, regard
-- [Parfum](https://www.lejournalcosmetique.fr/parfum/) : concentrations, familles olfactives, maisons
-- [Cheveux](https://www.lejournalcosmetique.fr/cheveux/) : soins, couleur, coiffage, cuir chevelu
-- [Corps](https://www.lejournalcosmetique.fr/corps/) : solaires, hydratation, rituels
-- [Science & décryptages](https://www.lejournalcosmetique.fr/decryptages/) : INCI, réglementation, labels, hygiène de vie
+- [Soin visage](https://www.lejournaldelacosmetique.fr/soin-visage/) : hydratation, actifs, protection solaire, routines
+- [Maquillage](https://www.lejournaldelacosmetique.fr/maquillage/) : teint, lèvres, regard
+- [Parfum](https://www.lejournaldelacosmetique.fr/parfum/) : concentrations, familles olfactives, maisons
+- [Cheveux](https://www.lejournaldelacosmetique.fr/cheveux/) : soins, couleur, coiffage, cuir chevelu
+- [Corps](https://www.lejournaldelacosmetique.fr/corps/) : solaires, hydratation, rituels
+- [Science & décryptages](https://www.lejournaldelacosmetique.fr/decryptages/) : INCI, réglementation, labels, hygiène de vie
 
 ## Formats publiés
 

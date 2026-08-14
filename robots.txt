@@ -1,5 +1,5 @@
 # ————————————————————————————————
-# Le Journal de la Cosmétique — https://www.lejournalcosmetique.fr/
+# Le Journal de la Cosmétique — https://www.lejournaldelacosmetique.fr/
 # Média français indépendant : soins, maquillage, parfums & science des formules
 # /tools/ et /docs/ : outils internes, hors périmètre éditorial
 # ————————————————————————————————
@@ -87,4 +87,4 @@ User-agent: cohere-ai
 Allow: /
 Content-Signal: search=yes, ai-input=yes, ai-train=yes
 
-Sitemap: https://www.lejournalcosmetique.fr/sitemap.xml
+Sitemap: https://www.lejournaldelacosmetique.fr/sitemap.xml
