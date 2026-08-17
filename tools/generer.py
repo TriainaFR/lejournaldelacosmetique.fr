@@ -61,7 +61,7 @@ RUBRIQUES = [
                "pèse le plus lourd dans la décision.",
          img="1763503839418-2b45c3d7a3c3",
          alt="Pot de crème posé sur une pierre naturelle"),
-    dict(slug="decryptages", sym="Sc", num="06", nom="La Science", court="Science",
+    dict(slug="science", sym="Sc", num="06", nom="La Science", court="Science",
          sous="INCI · Actifs · Réglementation",
          titre="La Science des formules",
          chapo="Listes INCI, réglementation européenne, labels sans définition, hygiène de vie : "
@@ -79,22 +79,38 @@ A = lambda rub, titre, type_, d, iso, lect, url="#", cles=(), une=False, chapo="
     cles=list(cles), une=une, chapo=chapo)
 
 CORPUS = [
+    # ————— Science —————
+    A("science",
+      "Ingrédients cosmétiques : notre guide complet pour décrypter la liste INCI",
+      "Décryptage",
+      "17 août 2026", "2026-08-17",
+      "16 min",
+      "/science/ingredients-cosmetiques-decryptage-inci-complet/",
+      ("INCI", "ingrédients cosmétiques", "liste INCI", "étiquette", "allergènes",
+       "phénoxyéthanol", "parabènes", "conservateurs", "actifs", "réglementation",
+       "CosIng", "nomenclature"),
+      une=True,
+      chapo="La liste INCI classe les ingrédients par concentration décroissante, en latin pour le végétal "
+            "et en anglais pour le chimique. Ce qu'elle révèle, ce qu'elle cache, et comment la lire en cinq minutes."),
+
+    # ————— Soin visage —————
+    A("soin-visage",
+      "Soin visage : le guide complet pour une peau éclatante",
+      "Guide",
+      "17 août 2026", "2026-08-17",
+      "14 min",
+      "/soin-visage/soin-visage-guide-complet-peau-eclatante/",
+      ("soin visage", "routine", "sérum", "crème hydratante", "SPF", "nettoyant",
+       "type de peau", "peau sèche", "peau grasse", "peau sensible", "rétinol",
+       "niacinamide", "vitamine C", "acide hyaluronique", "exfoliation"),
+      une=True,
+      chapo="Nettoyer, traiter, hydrater, protéger : quatre gestes, un ordre unique — du plus léger au plus riche. "
+            "Le guide complet, type de peau par type de peau."),
+
     # ————————————————————————————————————————————————————————————
-    # VIDE — le site part sur une base saine, sans article fictif.
-    #
-    # Pour publier un article : décommenter le modèle ci-dessous,
-    # remplir les champs, créer la page HTML correspondante,
-    # puis relancer  python3 tools/generer.py
-    #
-    # A("soin-visage",                                   # rubrique (slug)
-    #   "Meilleures crèmes hydratantes : notre sélection",# titre
-    #   "Guide d'achat",                                  # type affiché
-    #   "20 août 2026", "2026-08-20",                     # date lisible, date ISO
-    #   "14 min",                                         # durée de lecture
-    #   "/guides/soin-visage/creme-hydratante/",          # URL réelle de l'article
-    #   ("crème hydratante", "céramides", "peau sèche"),  # mots-clés pour la recherche
-    #   une=True,                                         # article mis en tête de rubrique
-    #   chapo="Résumé en une ou deux phrases."),
+    # Pour publier un nouvel article : ajouter une entrée sur ce modèle,
+    # créer la page HTML correspondante, puis relancer
+    #   python3 tools/generer.py
     # ————————————————————————————————————————————————————————————
 ]
 

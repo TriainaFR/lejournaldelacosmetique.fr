@@ -21,7 +21,7 @@ Méthode engagée publiquement : produits achetés au prix public (jamais d'éch
 - [Parfum](https://www.lejournaldelacosmetique.fr/parfum/) : concentrations, familles olfactives, maisons
 - [Cheveux](https://www.lejournaldelacosmetique.fr/cheveux/) : soins, couleur, coiffage, cuir chevelu
 - [Corps](https://www.lejournaldelacosmetique.fr/corps/) : solaires, hydratation, rituels
-- [Science & décryptages](https://www.lejournaldelacosmetique.fr/decryptages/) : INCI, réglementation, labels, hygiène de vie
+- [Science & décryptages](https://www.lejournaldelacosmetique.fr/science/) : INCI, réglementation, labels, hygiène de vie
 
 ## Formats publiés
 

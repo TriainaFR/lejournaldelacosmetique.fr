@@ -1,0 +1,90 @@
+{
+  "a_propos": "Provenance de chaque image hébergée sur lejournaldelacosmetique.fr. Toute photographie publiée doit figurer ici avec son auteur, sa source et sa licence.",
+  "mis_a_jour": "2026-08-17",
+  "images": [
+    {
+      "fichier": "images/articles/inci-lire-etiquette-rayon.jpg",
+      "auteur": "Federico Garcia",
+      "profil_auteur": "https://unsplash.com/@fefe",
+      "source": "Unsplash",
+      "page_source": "https://unsplash.com/fr/photos/une-femme-tenant-une-bouteille-de-liquide-dans-un-magasin--kPOROI-ZQI",
+      "licence": "Licence Unsplash — https://unsplash.com/fr/licence",
+      "usage": "photo d'illustration",
+      "alt": "Une personne examine le flacon d’un produit cosmétique dans le rayon d’un magasin",
+      "legende": "Lire la composition avant d’acheter : le geste que la liste INCI rend possible.",
+      "telecharge_le": "2026-08-17"
+    },
+    {
+      "fichier": "images/articles/inci-formules-cosmetiques.jpg",
+      "auteur": "pmv chamara",
+      "profil_auteur": "https://unsplash.com/@pmvch",
+      "source": "Unsplash",
+      "page_source": "https://unsplash.com/fr/photos/une-table-surmontee-de-nombreux-types-de-cosmetiques-differents-ILhf4VsPn_w",
+      "licence": "Licence Unsplash — https://unsplash.com/fr/licence",
+      "usage": "photo d'illustration",
+      "alt": "Nombreux produits cosmétiques de types différents disposés sur une table",
+      "legende": "Photo d’illustration — la diversité des galéniques complique la comparaison des formules.",
+      "telecharge_le": "2026-08-17"
+    },
+    {
+      "fichier": "images/articles/inci-serums-actifs.jpg",
+      "auteur": "ibnu ihza",
+      "profil_auteur": "https://unsplash.com/@mahendra_10",
+      "source": "Unsplash",
+      "page_source": "https://unsplash.com/fr/photos/serums-et-feuilles-de-soin-de-la-peau-sur-un-fond-neutre-_e68kz8xKi8",
+      "licence": "Licence Unsplash — https://unsplash.com/fr/licence",
+      "usage": "photo d'illustration",
+      "alt": "Flacons de sérum posés sur un fond neutre, accompagnés de feuillage",
+      "legende": "Photo d’illustration — les sérums concentrent les actifs, souvent efficaces à faible dose.",
+      "telecharge_le": "2026-08-17"
+    },
+    {
+      "fichier": "images/articles/inci-conservateurs-flacons.jpg",
+      "auteur": "Kier in Sight Archives",
+      "profil_auteur": "https://unsplash.com/@kierinsightarchives",
+      "source": "Unsplash",
+      "page_source": "https://unsplash.com/fr/photos/bouteilles-en-verre-noir-et-blanc-OHQcMO-8i2I",
+      "licence": "Licence Unsplash — https://unsplash.com/fr/licence",
+      "usage": "photo d'illustration",
+      "alt": "Flacons cosmétiques en verre noir et blanc alignés",
+      "legende": "Photo d’illustration — sans conservateur, une formule aqueuse se contamine en quelques jours.",
+      "telecharge_le": "2026-08-17"
+    },
+    {
+      "fichier": "images/articles/soin-visage-routine-produits.jpg",
+      "auteur": "Shayna Douglas",
+      "profil_auteur": "https://unsplash.com/@itsmaemedia",
+      "source": "Unsplash",
+      "page_source": "https://unsplash.com/fr/photos/une-table-blanche-surmontee-de-trois-types-differents-de-produits-de-soins-de-la-peau-m7G7pK4CvOY",
+      "licence": "Licence Unsplash — https://unsplash.com/fr/licence",
+      "usage": "photo d'illustration",
+      "alt": "Trois produits de soin du visage posés côte à côte sur une surface claire",
+      "legende": "Photo d’illustration — nettoyant, sérum, crème : le socle d’une routine, du plus léger au plus riche.",
+      "telecharge_le": "2026-08-17"
+    },
+    {
+      "fichier": "images/articles/soin-visage-produits-alignes.jpg",
+      "auteur": "Alex Padurariu",
+      "profil_auteur": "https://unsplash.com/@alexgoesglobal",
+      "source": "Unsplash",
+      "page_source": "https://unsplash.com/fr/photos/une-table-en-bois-surmontee-de-nombreux-produits-de-beaute-_ieSbbgr3_I",
+      "licence": "Licence Unsplash — https://unsplash.com/fr/licence",
+      "usage": "photo d'illustration",
+      "alt": "Plusieurs produits de beauté disposés sur une table en bois",
+      "legende": "Photo d’illustration — l’ordre d’application compte autant que le choix des produits.",
+      "telecharge_le": "2026-08-17"
+    },
+    {
+      "fichier": "images/articles/soin-visage-flacons-types-peau.jpg",
+      "auteur": "Valeriia Miller",
+      "profil_auteur": "https://unsplash.com/@valeriiamiller",
+      "source": "Unsplash",
+      "page_source": "https://unsplash.com/fr/photos/bouteilles-en-plastique-blanches-et-noires-_42NKYROG7g",
+      "licence": "Licence Unsplash — https://unsplash.com/fr/licence",
+      "usage": "photo d'illustration",
+      "alt": "Flacons de soin blancs et noirs alignés sur un fond neutre",
+      "legende": "Photo d’illustration — à chaque type de peau sa texture : gel léger, fluide, crème riche.",
+      "telecharge_le": "2026-08-17"
+    }
+  ]
+}
