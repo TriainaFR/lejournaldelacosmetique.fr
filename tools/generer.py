@@ -1119,6 +1119,45 @@ Les crawlers des moteurs génératifs sont explicitement autorisés (voir %s/rob
 """ % (intro, SITE, blocs_rub, SITE, SITE, SITE, SITE, SITE, SITE, SITE, SITE, SITE, SITE, SITE, SITE)
 
 # ————————————————————————————————————————————————————————————————
+def versionner():
+    """Estampille les feuilles de style et les scripts d'une empreinte de contenu.
+
+    Sans cela, un CSS modifié reste servi jusqu'à 4 h par le cache CDN
+    (constaté le 18 août 2026 : cf-cache-status HIT, max-age=14400).
+    Une empreinte dans l'URL rend l'invalidation automatique à chaque déploiement.
+    Passe idempotente : toute empreinte existante est retirée avant d'être réécrite.
+    """
+    import hashlib
+
+    empreintes = {}
+    def empreinte(chemin):
+        if chemin not in empreintes:
+            complet = os.path.join(RACINE, chemin.lstrip("/"))
+            if not os.path.exists(complet):
+                empreintes[chemin] = ""
+            else:
+                with open(complet, "rb") as f:
+                    empreintes[chemin] = hashlib.sha256(f.read()).hexdigest()[:8]
+        return empreintes[chemin]
+
+    motif = re.compile(r'(/assets/[A-Za-z0-9._-]+\.(?:css|js))(\?v=[0-9a-f]+)?')
+    n_fichiers = 0
+    for racine, _, fichiers in os.walk(RACINE):
+        if "/.git" in racine or "/docs" in racine or "/tools" in racine:
+            continue
+        for nom in fichiers:
+            if nom != "index.html":
+                continue
+            chemin = os.path.join(racine, nom)
+            src = open(chemin, encoding="utf-8").read()
+            neuf = motif.sub(lambda m: m.group(1) + ("?v=%s" % empreinte(m.group(1)) if empreinte(m.group(1)) else ""), src)
+            if neuf != src:
+                open(chemin, "w", encoding="utf-8").write(neuf)
+                n_fichiers += 1
+    print("  ✓ %-52s %d page%s estampillée%s" % ("versionnement des assets", n_fichiers,
+          "s" if n_fichiers > 1 else "", "s" if n_fichiers > 1 else ""))
+
+# ————————————————————————————————————————————————————————————————
 def ecrire(chemin, contenu):
     complet = os.path.join(RACINE, chemin)
     os.makedirs(os.path.dirname(complet), exist_ok=True)
@@ -1135,6 +1174,7 @@ def main():
     ecrire("recherche/index.html", page_recherche())
     ecrire("sitemap.xml", sitemap())
     ecrire("llms.txt", llms_txt())
+    versionner()
     print("Terminé.")
 
 if __name__ == "__main__":
