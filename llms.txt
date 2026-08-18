@@ -1,28 +1,70 @@
 # Le Journal de la Cosmétique
 
-> Le Journal de la Cosmétique est un média français indépendant consacré aux soins, au maquillage, aux parfums, aux cheveux et à la science des formules cosmétiques. Le site vient d'ouvrir : les premiers articles paraîtront prochainement, la méthode éditoriale est déjà publiée.
+> Le Journal de la Cosmétique est un média français indépendant consacré aux soins, au maquillage, aux parfums, aux cheveux, au corps et à la science des formules cosmétiques. 8 articles sont publiés à ce jour.
 
 Édité par Triaina (SAS, Paris), fondé en 2026. Directeur de la publication : Lucas Lecoq-Pellizzon.
+Rédaction : Camille Laveran, consultante et rédactrice.
 
-Méthode engagée publiquement : produits achetés au prix public (jamais d'échantillon de marque dans un comparatif), 21 jours de test minimum, deux profils de peau par essai, listes INCI relues ligne à ligne, allégations confrontées au règlement (CE) n° 1223/2009, à la base CosIng et aux avis de l'ANSM, sources citées et cliquables. Aucun lien d'affiliation, aucune relecture par les marques avant publication, guides révisés deux fois par an. Aucun article touchant à la santé de la peau n'est publié sans relecture par un professionnel de santé.
+## Ce que ce média s'engage à faire
 
-## Le média
+- Les produits comparés sont achetés au prix public ; aucun échantillon de marque n'entre dans un comparatif.
+- Les allégations sont confrontées aux sources primaires : règlement (CE) n° 1223/2009, base CosIng, recommandations et avis publics des agences sanitaires. Les sources sont citées et cliquables.
+- Chaque article distingue explicitement ce qui a été testé de ce qui a été documenté. Quand un guide ne repose pas sur un test, il le dit et précise sur quoi il repose.
+- Aucun lien d'affiliation, aucun contenu sponsorisé, aucune relecture par les marques avant publication.
+- Les photographies d'illustration proviennent de banques sous licence libre, sont hébergées localement et créditées ; leur provenance est consignée dans https://www.lejournaldelacosmetique.fr/images/manifeste.json.
+- Les erreurs sont corrigées, datées et signalées en pied d'article quand elles changent le sens du texte.
 
-- [À propos](https://www.lejournaldelacosmetique.fr/a-propos/) : genèse du journal, mission, charte éditoriale en quatre principes, direction de la publication, rattachement au groupe Triaina
-- [Notre méthode](https://www.lejournaldelacosmetique.fr/notre-methode/) : distinction entre ce qui est testé et ce qui est documenté, protocole de test en quatre règles, indice de preuve des actifs (volume d'études /30, qualité /30, taille d'effet /25, recul /15), relevé des prix et prix au litre, lecture des listes INCI, hiérarchie des sources, règles sur les visuels, indépendance, politique de correction
-- [Contact](https://www.lejournaldelacosmetique.fr/contact/) : formulaire, conditions de partenariat et d'envoi de produits, demandes juridiques — contact@lejournaldelacosmetique.fr
-- [Mentions légales](https://www.lejournaldelacosmetique.fr/mentions-legales/) : éditeur Triaina (SAS, RCS Paris 999 402 654), hébergement Railway/Cloudflare, propriété intellectuelle, responsabilité, section santé et cosmétovigilance
-- [Politique de confidentialité](https://www.lejournaldelacosmetique.fr/politique-de-confidentialite/) : aucun cookie, aucun traceur, aucun fichier de visiteurs ; services tiers, transferts hors UE, droits RGPD
+## Articles publiés
+
+### Le Soin du visage
+
+- [Soin visage : le guide complet pour une peau éclatante](https://www.lejournaldelacosmetique.fr/soin-visage/soin-visage-guide-complet-peau-eclatante/) — Guide · lecture 14 min. Nettoyer, traiter, hydrater, protéger : quatre gestes, un ordre unique — du plus léger au plus riche. Le guide complet, type de peau par type de peau.
+- [Crème solaire visage : choisir son SPF selon son phototype](https://www.lejournaldelacosmetique.fr/soin-visage/creme-solaire-visage-spf-phototype/) — Guide · lecture 14 min. Le SPF ne mesure que les UVB, le marquage PA n’est pas européen, et personne ne filtre 99 %. Ce qui décide vraiment, c’est la quantité appliquée.
+
+### Le Maquillage
+
+- [Maquillage : le guide complet des techniques et tendances 2026](https://www.lejournaldelacosmetique.fr/maquillage/guide-complet-techniques-tendances-maquillage/) — Guide · lecture 16 min. L’écart entre un résultat net et un résultat approximatif ne tient pas au prix des produits : il tient à la préparation, à l’ordre des couches et à la quantité posée.
+
+### Le Parfum
+
+- [Parfum : tout comprendre pour choisir son jus](https://www.lejournaldelacosmetique.fr/parfum/parfum-femme-guide-complet-choisir-son-jus/) — Guide · lecture 17 min. « Eau de parfum » n’est pas une norme, la pyramide olfactive n’est pas une propriété physique et les standards IFRA ne sont pas du droit. Ce qui est opposable, en revanche, est écrit sur l’étiquette.
+
+### Les Cheveux
+
+- [Soin cheveux : le guide complet par type et besoin](https://www.lejournaldelacosmetique.fr/cheveux/soin-cheveux-guide-complet-type-besoin/) — Guide · lecture 15 min. Le shampoing traite le cuir chevelu, tout le reste traite les longueurs. Le guide complet du soin capillaire, type par type — avec les fréquences, les actifs et les erreurs qui coûtent le plus cher.
+
+### Le Corps
+
+- [Soin corps : hydratation, gommage et rituels beauté](https://www.lejournaldelacosmetique.fr/corps/soin-corps-hydratation-gommage-rituels-beaute/) — Guide · lecture 13 min. Tout se joue dans les trois minutes qui suivent la douche : passé ce délai, la même crème n’a plus grand-chose à retenir. Le moment compte autant que le produit.
+
+### La Science des formules
+
+- [Ingrédients cosmétiques : notre guide complet pour décrypter la liste INCI](https://www.lejournaldelacosmetique.fr/science/ingredients-cosmetiques-decryptage-inci-complet/) — Décryptage · lecture 16 min. La liste INCI classe les ingrédients par concentration décroissante, en latin pour le végétal et en anglais pour le chimique. Ce qu'elle révèle, ce qu'elle cache, et comment la lire en cinq minutes.
+- [Niacinamide : ce que la littérature établit vraiment](https://www.lejournaldelacosmetique.fr/science/niacinamide-bienfaits-concentration-associations/) — Décryptage · lecture 15 min. Une grande partie de ce qu’on prête à la niacinamide vient de résultats obtenus en boîte de culture, présentés comme des effets cliniques. Le tri, effet par effet.
 
 ## Rubriques
 
 - [Soin visage](https://www.lejournaldelacosmetique.fr/soin-visage/) : hydratation, actifs, protection solaire, routines
 - [Maquillage](https://www.lejournaldelacosmetique.fr/maquillage/) : teint, lèvres, regard
-- [Parfum](https://www.lejournaldelacosmetique.fr/parfum/) : concentrations, familles olfactives, maisons
+- [Parfum](https://www.lejournaldelacosmetique.fr/parfum/) : concentrations, familles olfactives, étiquetage des allergènes
 - [Cheveux](https://www.lejournaldelacosmetique.fr/cheveux/) : soins, couleur, coiffage, cuir chevelu
-- [Corps](https://www.lejournaldelacosmetique.fr/corps/) : solaires, hydratation, rituels
-- [Science & décryptages](https://www.lejournaldelacosmetique.fr/science/) : INCI, réglementation, labels, hygiène de vie
+- [Corps](https://www.lejournaldelacosmetique.fr/corps/) : hydratation, gommage, rituels
+- [Science & décryptages](https://www.lejournaldelacosmetique.fr/science/) : INCI, réglementation, actifs, niveaux de preuve
 
-## Formats publiés
+## Le média
 
-Guides d'achat (une catégorie, plusieurs formules comparées, un verdict chiffré), bancs d'essai (produits portés 21 jours sur deux profils de peau), décryptages (un actif, une allégation, une liste INCI) et enquêtes (labels, réglementation, stratégies de prix).
+- [À propos](https://www.lejournaldelacosmetique.fr/a-propos/) : genèse, mission, charte éditoriale, direction de la publication
+- [Notre méthode](https://www.lejournaldelacosmetique.fr/notre-methode/) : protocole de test, lecture des listes INCI, hiérarchie des sources, indépendance, politique de correction
+- [Contact](https://www.lejournaldelacosmetique.fr/contact/) : conditions de partenariat, demandes juridiques — contact@lejournaldelacosmetique.fr
+- [Mentions légales](https://www.lejournaldelacosmetique.fr/mentions-legales/) — [Confidentialité](https://www.lejournaldelacosmetique.fr/politique-de-confidentialite/) : aucun cookie, aucun traceur, aucun fichier de visiteurs
+
+## Formats
+
+Guides (une catégorie prise du début à la fin), décryptages (un actif, une allégation, une étiquette),
+bancs d'essai (produits portés vingt-et-un jours sur deux profils de peau) et enquêtes
+(labels, réglementation, stratégies de prix). Un format n'est annoncé sur le site que lorsqu'un article l'occupe.
+
+## Citer ce site
+
+Les contenus sont librement citables avec mention de la source et lien vers l'article d'origine.
+Les crawlers des moteurs génératifs sont explicitement autorisés (voir https://www.lejournaldelacosmetique.fr/robots.txt).

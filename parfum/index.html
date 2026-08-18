@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Le Parfum — Le Journal de la Cosmétique</title>
-  <meta name="description" content="Le Parfum — Maisons · Niche · Sillages. Rubrique en préparation : les premiers articles du Journal de la Cosmétique paraîtront prochainement.">
+  <meta name="description" content="Le Parfum — les articles du Journal de la Cosmétique : maisons · niche · sillages">
   <link rel="canonical" href="https://www.lejournaldelacosmetique.fr/parfum/">
   <meta name="robots" content="index, follow, max-image-preview:large">
   <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
@@ -14,10 +14,9 @@
   <meta property="og:site_name" content="Le Journal de la Cosmétique">
   <meta property="og:locale" content="fr_FR">
   <meta property="og:title" content="Le Parfum — Le Journal de la Cosmétique">
-  <meta property="og:description" content="Le Parfum — Maisons · Niche · Sillages. Rubrique en préparation : les premiers articles du Journal de la Cosmétique paraîtront prochainement.">
+  <meta property="og:description" content="Le Parfum — les articles du Journal de la Cosmétique : maisons · niche · sillages">
   <meta property="og:url" content="https://www.lejournaldelacosmetique.fr/parfum/">
 
-  <link rel="preconnect" href="https://images.unsplash.com" crossorigin>
   <link rel="stylesheet" href="/assets/fonts.css">
   <link rel="stylesheet" href="/assets/pages.css">
   <link rel="stylesheet" href="/assets/search.css">
@@ -37,7 +36,14 @@
         "inLanguage": "fr-FR",
         "isPartOf": { "@id": "https://www.lejournaldelacosmetique.fr/#website" }
       },
-      
+      {
+        "@type": "ItemList",
+        "name": "Le Parfum",
+        "numberOfItems": 1,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Parfum : tout comprendre pour choisir son jus" }
+        ]
+      },
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
@@ -95,7 +101,7 @@
       <h1>Le Parfum</h1>
       <p class="sf">Concentrations, familles olfactives, tenue réelle, maisons à connaître : de quoi choisir un flacon sans s&#x27;en remettre à une note de tête en boutique.</p>
       <p class="meta">
-        <span>Premiers articles <b>à paraître</b></span>
+        <span><b>1</b> article publié</span>
         <span>Tous <b>testés ou sourcés</b></span>
       </p>
     </div>
@@ -104,22 +110,33 @@
   <main id="contenu" class="corps">
     <div class="wrap">
 
-      <section class="vide" aria-label="Rubrique en préparation">
-        <p class="k">Rubrique en préparation</p>
-        <p>Les premiers articles paraîtront prochainement. Chacun sera testé ou sourcé selon le
-        protocole que nous publions — vous pouvez le lire dès aujourd’hui.</p>
-        <p class="l"><a href="/notre-methode/">Notre méthode de test</a><a href="/a-propos/">Qui écrit le journal</a></p>
+      <article>
+        <a class="rub-lead" href="/parfum/parfum-femme-guide-complet-choisir-son-jus/">
+          <span class="ph"><img src="/images/articles/parfum-flacon-lumiere.jpg" alt="Flacon de parfum en verre éclairé par des lumières bleues et roses" width="900" height="600" fetchpriority="high"></span>
+          <span class="in">
+            <span class="tg">Guide</span>
+            <h2>Parfum : tout comprendre pour choisir son jus</h2>
+            <span class="ch">« Eau de parfum » n’est pas une norme, la pyramide olfactive n’est pas une propriété physique et les standards IFRA ne sont pas du droit. Ce qui est opposable, en revanche, est écrit sur l’étiquette.</span>
+            <span class="mt"><span>17 août 2026</span><span>17 min de lecture</span></span>
+          </span>
+        </a>
+      </article>
+
+      <section aria-label="Tous les articles de la rubrique">
+        <h2 class="rub-titre">Tous les articles — Parfum</h2>
+        <div class="rub-liste">
+        </div>
       </section>
 
       <section class="univers" aria-label="Les autres univers">
         <h2>La classification des univers</h2>
         <div class="grid">
-        <a class="el" href="/soin-visage/"><span class="z">01 — 1</span><span class="sym">So</span><span class="nom">Soin visage</span></a>
-        <a class="el" href="/maquillage/"><span class="z">02</span><span class="sym">Ma</span><span class="nom">Maquillage</span></a>
-        <a class="el" href="/parfum/" aria-current="page"><span class="z">03</span><span class="sym">Pa</span><span class="nom">Parfum</span></a>
-        <a class="el" href="/cheveux/"><span class="z">04</span><span class="sym">Ch</span><span class="nom">Cheveux</span></a>
-        <a class="el" href="/corps/"><span class="z">05</span><span class="sym">Co</span><span class="nom">Corps</span></a>
-        <a class="el" href="/science/"><span class="z">06 — 1</span><span class="sym">Sc</span><span class="nom">Science</span></a>
+        <a class="el" href="/soin-visage/"><span class="z">01 — 2</span><span class="sym">So</span><span class="nom">Soin visage</span></a>
+        <a class="el" href="/maquillage/"><span class="z">02 — 1</span><span class="sym">Ma</span><span class="nom">Maquillage</span></a>
+        <a class="el" href="/parfum/" aria-current="page"><span class="z">03 — 1</span><span class="sym">Pa</span><span class="nom">Parfum</span></a>
+        <a class="el" href="/cheveux/"><span class="z">04 — 1</span><span class="sym">Ch</span><span class="nom">Cheveux</span></a>
+        <a class="el" href="/corps/"><span class="z">05 — 1</span><span class="sym">Co</span><span class="nom">Corps</span></a>
+        <a class="el" href="/science/"><span class="z">06 — 2</span><span class="sym">Sc</span><span class="nom">Science</span></a>
         </div>
       </section>
 
