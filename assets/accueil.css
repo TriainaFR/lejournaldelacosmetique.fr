@@ -185,7 +185,10 @@ a.sec-lien:hover{ background:var(--acide); border-color:var(--noir); }
   .une .plateau{ grid-template-columns:1fr; }
   .lead{ border-right:0; border-bottom:1px solid var(--trait); }
   .rail .rl{ grid-auto-rows:auto; }
-  .rail .vg{ max-height:none; aspect-ratio:1; }
+  /* en pile, il n'y a plus de hauteur à absorber : la vignette ne doit plus
+     s'étirer, sinon `aspect-ratio` fait piloter sa largeur par sa hauteur et
+     elle déborde de sa colonne sur le texte. */
+  .rail .vg{ align-self:start; max-height:none; aspect-ratio:1; }
 }
 @media (max-width:520px){
   .lead .texte{ padding:20px 18px 22px; }
