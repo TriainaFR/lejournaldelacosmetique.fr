@@ -56,7 +56,7 @@ Rédaction : Camille Laveran, consultante et rédactrice.
 
 - [À propos](https://www.lejournaldelacosmetique.fr/a-propos/) : genèse, mission, charte éditoriale, direction de la publication
 - [Notre méthode](https://www.lejournaldelacosmetique.fr/notre-methode/) : protocole de test, lecture des listes INCI, hiérarchie des sources, indépendance, politique de correction
-- [Contact](https://www.lejournaldelacosmetique.fr/contact/) : conditions de partenariat, demandes juridiques — contact@lejournaldelacosmetique.fr
+- [Contact](https://www.lejournaldelacosmetique.fr/contact/) : conditions de partenariat, demandes juridiques — redaction@lejournaldelacosmetique.fr
 - [Mentions légales](https://www.lejournaldelacosmetique.fr/mentions-legales/) — [Confidentialité](https://www.lejournaldelacosmetique.fr/politique-de-confidentialite/) : aucun cookie, aucun traceur, aucun fichier de visiteurs
 
 ## Formats
