@@ -207,6 +207,21 @@ CORPUS = [
       img="/images/articles/solaire-lumiere-stores.jpg",
       alt="Visage traversé par la lumière du soleil filtrée par des stores"),
 
+    # ————— Cheveux —————
+    A("cheveux",
+      "Shampooing sans sulfate : ce que ça change, et comment le choisir",
+      "Décryptage",
+      "20 août 2026", "2026-08-20",
+      "13 min",
+      "/cheveux/shampooing-sans-sulfate-pourquoi-changer-lequel-choisir/",
+      ("shampooing sans sulfate", "SLS", "SLES", "sodium lauryl sulfate", "sodium laureth sulfate",
+       "sodium coco-sulfate", "tensioactifs", "cocamidopropyl betaine", "decyl glucoside",
+       "cheveux colorés", "cuir chevelu sensible", "liste INCI", "mousse"),
+      chapo="Le « sans sulfate » est devenu un argument de rayon avant d\u2019être un critère de formulation. "
+            "Il est vendu avec trois promesses \u2014 une seule tient solidement.",
+      img="/images/articles/shampooing-mousse-bulles.jpg",
+      alt="Macrographie d\u2019une mousse : bulles serrées de tailles inégales"),
+
     # ————————————————————————————————————————————————————————————
     # Pour publier un nouvel article : ajouter une entrée sur ce modèle,
     # créer la page HTML correspondante, puis relancer

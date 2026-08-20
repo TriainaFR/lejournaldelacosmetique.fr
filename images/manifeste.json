@@ -1,6 +1,6 @@
 {
   "a_propos": "Provenance de chaque image hébergée sur lejournaldelacosmetique.fr. Toute photographie publiée doit figurer ici avec son auteur, sa source et sa licence.",
-  "mis_a_jour": "2026-08-17",
+  "mis_a_jour": "2026-08-20",
   "images": [
     {
       "fichier": "images/articles/inci-lire-etiquette-rayon.jpg",
@@ -385,6 +385,42 @@
       "alt": "Gros plan sur une trace de crème blanche déposée sur un fond jaune",
       "legende": "Photo d’illustration — la quantité appliquée pèse plus lourd que l’indice affiché.",
       "telecharge_le": "2026-08-17"
+    },
+    {
+      "fichier": "images/articles/shampooing-mousse-bulles.jpg",
+      "auteur": "Ravi Patel",
+      "profil_auteur": "https://unsplash.com/@ravi_patel",
+      "source": "Unsplash",
+      "page_source": "https://unsplash.com/fr/photos/bulles-TVLWWOGuMXo",
+      "licence": "Licence Unsplash — https://unsplash.com/fr/licence",
+      "usage": "photo d'illustration",
+      "alt": "Macrographie d’une mousse : bulles serrées de tailles inégales",
+      "legende": "Photo d’illustration — la mousse mesure le pouvoir moussant d’un tensioactif, pas son pouvoir nettoyant.",
+      "telecharge_le": "2026-08-20"
+    },
+    {
+      "fichier": "images/articles/shampooing-cheveux-brillance.jpg",
+      "auteur": "Taylor Smith",
+      "profil_auteur": "https://unsplash.com/@taylor_smith",
+      "source": "Unsplash",
+      "page_source": "https://unsplash.com/fr/photos/cheveux-bruns-sur-textile-blanc-zz-UAKRabJs",
+      "licence": "Licence Unsplash — https://unsplash.com/fr/licence",
+      "usage": "photo d'illustration",
+      "alt": "Gros plan sur une chevelure châtain aux reflets clairs",
+      "legende": "Photo d’illustration — sur cheveux colorés, chaque lavage emporte une part du pigment.",
+      "telecharge_le": "2026-08-20"
+    },
+    {
+      "fichier": "images/articles/shampooing-niche-salle-de-bain.jpg",
+      "auteur": "Lesli Whitecotton",
+      "profil_auteur": "https://unsplash.com/@lnicolern",
+      "source": "Unsplash",
+      "page_source": "https://unsplash.com/fr/photos/niche-de-salle-de-bain-avec-une-petite-bouteille-et-un-rasoir-orange-EGwEBGH5R2c",
+      "licence": "Licence Unsplash — https://unsplash.com/fr/licence",
+      "usage": "photo d'illustration",
+      "alt": "Niche de douche carrelée blanche contenant un petit flacon et un rasoir",
+      "legende": "Photo d’illustration — le seul juge fiable reste la liste d’ingrédients au dos du flacon.",
+      "telecharge_le": "2026-08-20"
     }
   ]
 }

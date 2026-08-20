@@ -1,6 +1,6 @@
 # Le Journal de la Cosmétique
 
-> Le Journal de la Cosmétique est un média français indépendant consacré aux soins, au maquillage, aux parfums, aux cheveux, au corps et à la science des formules cosmétiques. 8 articles sont publiés à ce jour.
+> Le Journal de la Cosmétique est un média français indépendant consacré aux soins, au maquillage, aux parfums, aux cheveux, au corps et à la science des formules cosmétiques. 9 articles sont publiés à ce jour.
 
 Édité par Triaina (SAS, Paris), fondé en 2026. Directeur de la publication : Lucas Lecoq-Pellizzon.
 Rédaction : Camille Laveran, consultante et rédactrice.
@@ -32,6 +32,7 @@ Rédaction : Camille Laveran, consultante et rédactrice.
 ### Les Cheveux
 
 - [Soin cheveux : le guide complet par type et besoin](https://www.lejournaldelacosmetique.fr/cheveux/soin-cheveux-guide-complet-type-besoin/) — Guide · lecture 15 min. Le shampoing traite le cuir chevelu, tout le reste traite les longueurs. Le guide complet du soin capillaire, type par type — avec les fréquences, les actifs et les erreurs qui coûtent le plus cher.
+- [Shampooing sans sulfate : ce que ça change, et comment le choisir](https://www.lejournaldelacosmetique.fr/cheveux/shampooing-sans-sulfate-pourquoi-changer-lequel-choisir/) — Décryptage · lecture 13 min. Le « sans sulfate » est devenu un argument de rayon avant d’être un critère de formulation. Il est vendu avec trois promesses — une seule tient solidement.
 
 ### Le Corps
 
