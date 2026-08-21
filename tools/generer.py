@@ -222,6 +222,22 @@ CORPUS = [
       img="/images/articles/shampooing-mousse-bulles.jpg",
       alt="Macrographie d\u2019une mousse : bulles serrées de tailles inégales"),
 
+    # ————— Maquillage —————
+    A("maquillage",
+      "Fond de teint : choisir sa teinte et sa texture",
+      "Guide",
+      "21 août 2026", "2026-08-21",
+      "16 min",
+      "/maquillage/fond-de-teint-choisir-teinte-texture/",
+      ("fond de teint", "choisir fond de teint", "fond de teint teinte", "fond de teint texture",
+       "sous-tons", "phototype", "fond de teint peau grasse", "fond de teint peau sèche",
+       "fond de teint fluide", "fond de teint crème", "fond de teint poudre", "BB crème", "cushion"),
+      une=True,
+      chapo="Type de peau, texture, sous-ton : trois paramètres, dans cet ordre. 44 formules analysées et "
+            "9 profils de peau pour trancher — avec le tableau produit par produit.",
+      img="/images/articles/fdt-swatches-teintes.jpg",
+      alt="Traces de fond de teint de plusieurs teintes étalées sur un fond clair, à côté d\u2019un flacon"),
+
     # ————————————————————————————————————————————————————————————
     # Pour publier un nouvel article : ajouter une entrée sur ce modèle,
     # créer la page HTML correspondante, puis relancer

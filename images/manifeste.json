@@ -1,6 +1,6 @@
 {
   "a_propos": "Provenance de chaque image hébergée sur lejournaldelacosmetique.fr. Toute photographie publiée doit figurer ici avec son auteur, sa source et sa licence.",
-  "mis_a_jour": "2026-08-20",
+  "mis_a_jour": "2026-08-21",
   "images": [
     {
       "fichier": "images/articles/inci-lire-etiquette-rayon.jpg",
@@ -421,6 +421,42 @@
       "alt": "Niche de douche carrelée blanche contenant un petit flacon et un rasoir",
       "legende": "Photo d’illustration — le seul juge fiable reste la liste d’ingrédients au dos du flacon.",
       "telecharge_le": "2026-08-20"
+    },
+    {
+      "fichier": "images/articles/fdt-swatches-teintes.jpg",
+      "auteur": "Denisa Rama",
+      "profil_auteur": "https://unsplash.com/@denirama",
+      "source": "Unsplash",
+      "page_source": "https://unsplash.com/fr/photos/le-fond-de-teint-epelle-le-mot-amour-MLPbdEoL_yM",
+      "licence": "Licence Unsplash — https://unsplash.com/fr/licence",
+      "usage": "photo d'illustration",
+      "alt": "Traces de fond de teint de plusieurs teintes étalées sur un fond clair, à côté d’un flacon",
+      "legende": "Photo d’illustration — une teinte se juge étalée, jamais dans le flacon.",
+      "telecharge_le": "2026-08-21"
+    },
+    {
+      "fichier": "images/articles/fdt-poudre-compacte.jpg",
+      "auteur": "Anna Evans",
+      "profil_auteur": "https://unsplash.com/@anevans",
+      "source": "Unsplash",
+      "page_source": "https://unsplash.com/fr/photos/un-compact-compact-dxTR8BboRPA",
+      "licence": "Licence Unsplash — https://unsplash.com/fr/licence",
+      "usage": "photo d'illustration",
+      "alt": "Poudrier ouvert avec sa houppette, posé sur un fond sombre saupoudré de poudre",
+      "legende": "Photo d’illustration — la poudre fixe et matifie, mais accentue les ridules sur peau sèche.",
+      "telecharge_le": "2026-08-21"
+    },
+    {
+      "fichier": "images/articles/fdt-pinceau-application.jpg",
+      "auteur": "Kate Laine",
+      "profil_auteur": "https://unsplash.com/@kikimora33",
+      "source": "Unsplash",
+      "page_source": "https://unsplash.com/fr/photos/un-gros-plan-dun-pinceau-de-maquillage-sur-fond-noir-6ZXJFyTCZ_w",
+      "licence": "Licence Unsplash — https://unsplash.com/fr/licence",
+      "usage": "photo d'illustration",
+      "alt": "Gros plan sur les soies d’un pinceau de maquillage, sur fond sombre",
+      "legende": "Photo d’illustration — pinceau dense ou éponge humide : l’outil décide autant que la formule.",
+      "telecharge_le": "2026-08-21"
     }
   ]
 }

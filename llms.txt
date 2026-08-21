@@ -1,6 +1,6 @@
 # Le Journal de la Cosmétique
 
-> Le Journal de la Cosmétique est un média français indépendant consacré aux soins, au maquillage, aux parfums, aux cheveux, au corps et à la science des formules cosmétiques. 9 articles sont publiés à ce jour.
+> Le Journal de la Cosmétique est un média français indépendant consacré aux soins, au maquillage, aux parfums, aux cheveux, au corps et à la science des formules cosmétiques. 10 articles sont publiés à ce jour.
 
 Édité par Triaina (SAS, Paris), fondé en 2026. Directeur de la publication : Lucas Lecoq-Pellizzon.
 Rédaction : Camille Laveran, consultante et rédactrice.
@@ -24,6 +24,7 @@ Rédaction : Camille Laveran, consultante et rédactrice.
 ### Le Maquillage
 
 - [Maquillage : le guide complet des techniques et tendances 2026](https://www.lejournaldelacosmetique.fr/maquillage/guide-complet-techniques-tendances-maquillage/) — Guide · lecture 16 min. L’écart entre un résultat net et un résultat approximatif ne tient pas au prix des produits : il tient à la préparation, à l’ordre des couches et à la quantité posée.
+- [Fond de teint : choisir sa teinte et sa texture](https://www.lejournaldelacosmetique.fr/maquillage/fond-de-teint-choisir-teinte-texture/) — Guide · lecture 16 min. Type de peau, texture, sous-ton : trois paramètres, dans cet ordre. 44 formules analysées et 9 profils de peau pour trancher — avec le tableau produit par produit.
 
 ### Le Parfum
 
