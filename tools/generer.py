@@ -23,9 +23,9 @@ from datetime import date
 
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://www.lejournaldelacosmetique.fr"
-AUJ = "13 août 2026"
-AUJ_ISO = "2026-08-13"
-AUJ_COURT = "13.08.2026"
+AUJ = "24 août 2026"
+AUJ_ISO = "2026-08-24"
+AUJ_COURT = "24.08.2026"
 
 # ————————————————————————————————————————————————————————————————
 # RUBRIQUES — l'ordre est celui de la classification en page d'accueil
@@ -237,6 +237,22 @@ CORPUS = [
             "9 profils de peau pour trancher — avec le tableau produit par produit.",
       img="/images/articles/fdt-swatches-teintes.jpg",
       alt="Traces de fond de teint de plusieurs teintes étalées sur un fond clair, à côté d\u2019un flacon"),
+
+    # ————— Corps —————
+    A("corps",
+      "Beurre de karité : bienfaits, utilisations et comment le choisir",
+      "Guide",
+      "24 août 2026", "2026-08-24",
+      "15 min",
+      "/corps/beurre-de-karite-bienfaits-utilisations-choisir/",
+      ("beurre de karité", "Butyrospermum Parkii", "Vitellaria paradoxa", "karité brut",
+       "karité raffiné", "insaponifiables", "triterpènes", "lupéol", "esters cinnamiques",
+       "soin corps", "hydratation peau", "peau sèche", "masque capillaire", "liste INCI"),
+      une=True,
+      chapo="Tout l\u2019intérêt du karité tient dans 5 à 17 % de sa masse \u2014 les insaponifiables. "
+            "C\u2019est exactement ce que le raffinage détruit. 6 produits testés, brut contre raffiné.",
+      img="/images/articles/karite-pot-beurre-brut.jpg",
+      alt="Pot en verre rempli de beurre ivoire à la texture granuleuse, posé sur une planche en bois"),
 
     # ————————————————————————————————————————————————————————————
     # Pour publier un nouvel article : ajouter une entrée sur ce modèle,

@@ -1,6 +1,6 @@
 {
   "a_propos": "Provenance de chaque image hébergée sur lejournaldelacosmetique.fr. Toute photographie publiée doit figurer ici avec son auteur, sa source et sa licence.",
-  "mis_a_jour": "2026-08-21",
+  "mis_a_jour": "2026-08-24",
   "images": [
     {
       "fichier": "images/articles/inci-lire-etiquette-rayon.jpg",
@@ -457,6 +457,42 @@
       "alt": "Gros plan sur les soies d’un pinceau de maquillage, sur fond sombre",
       "legende": "Photo d’illustration — pinceau dense ou éponge humide : l’outil décide autant que la formule.",
       "telecharge_le": "2026-08-21"
+    },
+    {
+      "fichier": "images/articles/karite-pot-beurre-brut.jpg",
+      "auteur": "god picture",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@god-picture-369194295/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/fr-fr/photo/nourriture-aliments-cuisine-planche-a-decouper-14470149/",
+      "licence": "Licence Pexels — https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Pot en verre rempli de beurre ivoire à la texture granuleuse, posé sur une planche en bois avec des cuillères et un fouet",
+      "legende": "Photo d’illustration — le beurre brut a cette couleur ivoire à beige que le raffinage fait disparaître.",
+      "telecharge_le": "2026-08-24"
+    },
+    {
+      "fichier": "images/articles/karite-texture-pot-ouvert.jpg",
+      "auteur": "Karola G",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@karola-g/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/fr-fr/photo/blanc-rond-surface-beaute-4735913/",
+      "licence": "Licence Pexels — https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Pot ouvert vu de dessus, rempli d’un beurre épais de couleur ivoire tirant sur le jaune pâle, posé sur du marbre blanc",
+      "legende": "Photo d’illustration — la teinte jaune pâle signe la présence des caroténoïdes et des insaponifiables ; un beurre parfaitement blanc a été décoloré.",
+      "telecharge_le": "2026-08-24"
+    },
+    {
+      "fichier": "images/articles/karite-prelevement-main.jpg",
+      "auteur": "god picture",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@god-picture-369194295/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/fr-fr/photo/homme-bras-main-artisanat-14470150/",
+      "licence": "Licence Pexels — https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Une main prélève du beurre ivoire dans un pot en verre posé sur une planche en bois, entouré d’autres pots de soin",
+      "legende": "Photo d’illustration — la chaleur des doigts suffit à ramollir le beurre brut ; inutile de le faire fondre pour le corps.",
+      "telecharge_le": "2026-08-24"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Le Journal de la Cosmétique
 
-> Le Journal de la Cosmétique est un média français indépendant consacré aux soins, au maquillage, aux parfums, aux cheveux, au corps et à la science des formules cosmétiques. 10 articles sont publiés à ce jour.
+> Le Journal de la Cosmétique est un média français indépendant consacré aux soins, au maquillage, aux parfums, aux cheveux, au corps et à la science des formules cosmétiques. 11 articles sont publiés à ce jour.
 
 Édité par Triaina (SAS, Paris), fondé en 2026. Directeur de la publication : Lucas Lecoq-Pellizzon.
 Rédaction : Camille Laveran, consultante et rédactrice.
@@ -38,6 +38,7 @@ Rédaction : Camille Laveran, consultante et rédactrice.
 ### Le Corps
 
 - [Soin corps : hydratation, gommage et rituels beauté](https://www.lejournaldelacosmetique.fr/corps/soin-corps-hydratation-gommage-rituels-beaute/) — Guide · lecture 13 min. Tout se joue dans les trois minutes qui suivent la douche : passé ce délai, la même crème n’a plus grand-chose à retenir. Le moment compte autant que le produit.
+- [Beurre de karité : bienfaits, utilisations et comment le choisir](https://www.lejournaldelacosmetique.fr/corps/beurre-de-karite-bienfaits-utilisations-choisir/) — Guide · lecture 15 min. Tout l’intérêt du karité tient dans 5 à 17 % de sa masse — les insaponifiables. C’est exactement ce que le raffinage détruit. 6 produits testés, brut contre raffiné.
 
 ### La Science des formules
 
