@@ -237,3 +237,15 @@ figcaption a:hover{ color:var(--noir); border-color:var(--noir); }
 .transparence .k{ font-family:var(--mono); font-size:9.5px; letter-spacing:.14em; text-transform:uppercase; color:var(--gris); }
 .transparence p{ margin-top:9px; font-size:14px; line-height:1.6; color:#3A3A33; max-width:70ch; }
 .transparence a{ border-bottom:1px solid var(--acide-d); }
+
+/* ————— encart « idée reçue » ————— */
+.encart{ margin:32px 0; border:1px solid var(--noir); border-left:6px solid var(--acide-d); padding:24px 26px 26px; background:rgba(200,241,53,.10); }
+.encart .k{ font-family:var(--mono); font-size:10px; letter-spacing:.16em; text-transform:uppercase; color:var(--gris); }
+.encart h3{ margin:10px 0 0; font-weight:900; font-stretch:110%; text-transform:uppercase; font-size:18px; line-height:1.2; }
+.encart p{ margin-top:13px; font-size:15px; line-height:1.65; color:#3A3A33; max-width:68ch; }
+
+/* ————— infographie vectorielle ————— */
+.fig-svg{ margin:38px 0; }
+.fig-svg .roue{ display:block; width:100%; max-width:520px; height:auto; margin:0 auto; }
+/* sous 520 px la roue tombe à ~330 px : les matières deviennent illisibles, les noms suffisent */
+@media (max-width:520px){ .fig-svg .roue .mat{ display:none; } }

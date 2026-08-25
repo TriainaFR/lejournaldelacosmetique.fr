@@ -1,6 +1,6 @@
 {
   "a_propos": "Provenance de chaque image hébergée sur lejournaldelacosmetique.fr. Toute photographie publiée doit figurer ici avec son auteur, sa source et sa licence.",
-  "mis_a_jour": "2026-08-24",
+  "mis_a_jour": "2026-08-25",
   "images": [
     {
       "fichier": "images/articles/inci-lire-etiquette-rayon.jpg",
@@ -493,6 +493,42 @@
       "alt": "Une main prélève du beurre ivoire dans un pot en verre posé sur une planche en bois, entouré d’autres pots de soin",
       "legende": "Photo d’illustration — la chaleur des doigts suffit à ramollir le beurre brut ; inutile de le faire fondre pour le corps.",
       "telecharge_le": "2026-08-24"
+    },
+    {
+      "fichier": "images/articles/parfum-coiffeuse-flacons.jpg",
+      "auteur": "cottonbro studio",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@cottonbro/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/fr-fr/photo/lumineux-leger-hotel-bouteilles-7609022/",
+      "licence": "Licence Pexels — https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Plusieurs petits flacons de parfum posés sur une coiffeuse en bois, devant un miroir, éclairés par une lampe de chevet",
+      "legende": "Photo d’illustration — la collection s’accumule quand on choisit sans méthode.",
+      "telecharge_le": "2026-08-25"
+    },
+    {
+      "fichier": "images/articles/parfum-test-avant-bras.jpg",
+      "auteur": "MART PRODUCTION",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@mart-production/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/fr-fr/photo/gros-plan-d-une-main-vaporisant-du-parfum-sur-un-poignet-contre-un-fond-blanc-doux-8450252/",
+      "licence": "Licence Pexels — https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Une main vaporise un flacon de parfum doré sur l’intérieur de l’avant-bras tendu, sur fond blanc",
+      "legende": "Photo d’illustration — l’intérieur de l’avant-bras : assez de peau pour juger, assez loin du nez pour ne pas saturer.",
+      "telecharge_le": "2026-08-25"
+    },
+    {
+      "fichier": "images/articles/parfum-application-cou.jpg",
+      "auteur": "Lisa Fotios",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@fotios-photos/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/fr-fr/photo/gros-plan-d-une-femme-vaporisant-du-parfum-sur-son-poignet-mettant-en-valeur-l-elegance-et-la-feminite-16038870/",
+      "licence": "Licence Pexels — https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Une personne vaporise un flacon de parfum dépoli à la base du cou, poignet replié devant l’épaule",
+      "legende": "Photo d’illustration — les zones chaudes et bien irriguées diffusent davantage : cou, base de la gorge, pli du coude.",
+      "telecharge_le": "2026-08-25"
     }
   ]
 }

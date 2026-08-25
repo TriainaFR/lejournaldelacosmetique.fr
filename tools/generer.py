@@ -23,9 +23,9 @@ from datetime import date
 
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://www.lejournaldelacosmetique.fr"
-AUJ = "24 août 2026"
-AUJ_ISO = "2026-08-24"
-AUJ_COURT = "24.08.2026"
+AUJ = "25 août 2026"
+AUJ_ISO = "2026-08-25"
+AUJ_COURT = "25.08.2026"
 
 # ————————————————————————————————————————————————————————————————
 # RUBRIQUES — l'ordre est celui de la classification en page d'accueil
@@ -253,6 +253,22 @@ CORPUS = [
             "C\u2019est exactement ce que le raffinage détruit. 6 produits testés, brut contre raffiné.",
       img="/images/articles/karite-pot-beurre-brut.jpg",
       alt="Pot en verre rempli de beurre ivoire à la texture granuleuse, posé sur une planche en bois"),
+
+    # ————— Parfum —————
+    A("parfum",
+      "Comment choisir son parfum : les familles olfactives",
+      "Guide",
+      "25 août 2026", "2026-08-25",
+      "16 min",
+      "/parfum/comment-choisir-son-parfum-familles-olfactives/",
+      ("choisir son parfum", "familles olfactives", "hespéridé", "floral", "fougère",
+       "chypré", "boisé", "ambré", "cuir", "Société Française des Parfumeurs",
+       "eau de parfum", "eau de toilette", "concentration", "notes de tête", "tenue", "sillage"),
+      une=True,
+      chapo="Sept familles, cinq concentrations, une méthode. Et deux croyances de rayon à jeter : "
+            "les grains de café ne réinitialisent rien, et votre pH n\u2019y est pour presque rien.",
+      img="/images/articles/parfum-coiffeuse-flacons.jpg",
+      alt="Plusieurs petits flacons de parfum posés sur une coiffeuse en bois, devant un miroir"),
 
     # ————————————————————————————————————————————————————————————
     # Pour publier un nouvel article : ajouter une entrée sur ce modèle,
