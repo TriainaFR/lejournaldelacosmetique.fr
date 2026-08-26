@@ -23,9 +23,9 @@ from datetime import date
 
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://www.lejournaldelacosmetique.fr"
-AUJ = "25 août 2026"
-AUJ_ISO = "2026-08-25"
-AUJ_COURT = "25.08.2026"
+AUJ = "26 août 2026"
+AUJ_ISO = "2026-08-26"
+AUJ_COURT = "26.08.2026"
 
 # ————————————————————————————————————————————————————————————————
 # RUBRIQUES — l'ordre est celui de la classification en page d'accueil
@@ -269,6 +269,23 @@ CORPUS = [
             "les grains de café ne réinitialisent rien, et votre pH n\u2019y est pour presque rien.",
       img="/images/articles/parfum-coiffeuse-flacons.jpg",
       alt="Plusieurs petits flacons de parfum posés sur une coiffeuse en bois, devant un miroir"),
+
+    # ————— Soin visage —————
+    A("soin-visage",
+      "Acide hyaluronique visage : bienfaits et recommandations",
+      "Décryptage",
+      "26 août 2026", "2026-08-26",
+      "16 min",
+      "/soin-visage/acide-hyaluronique-visage-bienfaits-recommandations/",
+      ("acide hyaluronique", "sodium hyaluronate", "hydrolyzed hyaluronic acid",
+       "poids moléculaire", "kilodalton", "humectant", "sérum hydratant",
+       "hydratation visage", "peau déshydratée", "barrière cutanée",
+       "glycosaminoglycane", "liste INCI", "rides de déshydratation"),
+      une=True,
+      chapo="Non, il ne retient pas 1 000 fois son poids en eau \u2014 la mesure réelle tourne autour de 30. "
+            "Ce que la molécule fait vraiment, et pourquoi le poids moléculaire décide de tout.",
+      img="/images/articles/ha-pipette-goutte.jpg",
+      alt="Compte-gouttes déposant une goutte de sérum visqueux et translucide sur une surface claire"),
 
     # ————————————————————————————————————————————————————————————
     # Pour publier un nouvel article : ajouter une entrée sur ce modèle,

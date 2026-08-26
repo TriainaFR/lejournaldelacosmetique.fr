@@ -42,9 +42,11 @@ figcaption a:hover{ color:var(--noir); border-color:var(--noir); }
 /* ————— titre & chapô ————— */
 .article h1{
   font-weight:900; font-stretch:114%; text-transform:uppercase;
-  font-size:clamp(28px,4.4vw,54px); line-height:1; letter-spacing:-.022em; max-width:26ch;
+  font-size:clamp(26px,4.4vw,54px); line-height:1; letter-spacing:-.022em; max-width:26ch;
+  /* plancher à 26 px : « RECOMMANDATIONS » tenait tout juste au-delà en 375 px */
 }
 .article h1 .ac{ background:var(--acide); padding:0 .06em; }
+
 
 /* ————— TL;DR (bloc GEO) ————— */
 .tldr{
@@ -249,3 +251,4 @@ figcaption a:hover{ color:var(--noir); border-color:var(--noir); }
 .fig-svg .roue{ display:block; width:100%; max-width:520px; height:auto; margin:0 auto; }
 /* sous 520 px la roue tombe à ~330 px : les matières deviennent illisibles, les noms suffisent */
 @media (max-width:520px){ .fig-svg .roue .mat{ display:none; } }
+.fig-svg .schema{ display:block; width:100%; height:auto; }

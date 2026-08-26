@@ -1,6 +1,6 @@
 # Le Journal de la Cosmétique
 
-> Le Journal de la Cosmétique est un média français indépendant consacré aux soins, au maquillage, aux parfums, aux cheveux, au corps et à la science des formules cosmétiques. 12 articles sont publiés à ce jour.
+> Le Journal de la Cosmétique est un média français indépendant consacré aux soins, au maquillage, aux parfums, aux cheveux, au corps et à la science des formules cosmétiques. 13 articles sont publiés à ce jour.
 
 Édité par Triaina (SAS, Paris), fondé en 2026. Directeur de la publication : Lucas Lecoq-Pellizzon.
 Rédaction : Camille Laveran, consultante et rédactrice.
@@ -20,6 +20,7 @@ Rédaction : Camille Laveran, consultante et rédactrice.
 
 - [Soin visage : le guide complet pour une peau éclatante](https://www.lejournaldelacosmetique.fr/soin-visage/soin-visage-guide-complet-peau-eclatante/) — Guide · lecture 14 min. Nettoyer, traiter, hydrater, protéger : quatre gestes, un ordre unique — du plus léger au plus riche. Le guide complet, type de peau par type de peau.
 - [Crème solaire visage : choisir son SPF selon son phototype](https://www.lejournaldelacosmetique.fr/soin-visage/creme-solaire-visage-spf-phototype/) — Guide · lecture 14 min. Le SPF ne mesure que les UVB, le marquage PA n’est pas européen, et personne ne filtre 99 %. Ce qui décide vraiment, c’est la quantité appliquée.
+- [Acide hyaluronique visage : bienfaits et recommandations](https://www.lejournaldelacosmetique.fr/soin-visage/acide-hyaluronique-visage-bienfaits-recommandations/) — Décryptage · lecture 16 min. Non, il ne retient pas 1 000 fois son poids en eau — la mesure réelle tourne autour de 30. Ce que la molécule fait vraiment, et pourquoi le poids moléculaire décide de tout.
 
 ### Le Maquillage
 

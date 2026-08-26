@@ -1,6 +1,6 @@
 {
   "a_propos": "Provenance de chaque image hébergée sur lejournaldelacosmetique.fr. Toute photographie publiée doit figurer ici avec son auteur, sa source et sa licence.",
-  "mis_a_jour": "2026-08-25",
+  "mis_a_jour": "2026-08-26",
   "images": [
     {
       "fichier": "images/articles/inci-lire-etiquette-rayon.jpg",
@@ -529,6 +529,42 @@
       "alt": "Une personne vaporise un flacon de parfum dépoli à la base du cou, poignet replié devant l’épaule",
       "legende": "Photo d’illustration — les zones chaudes et bien irriguées diffusent davantage : cou, base de la gorge, pli du coude.",
       "telecharge_le": "2026-08-25"
+    },
+    {
+      "fichier": "images/articles/ha-pipette-goutte.jpg",
+      "auteur": "Mike Murray",
+      "profil_auteur": "https://www.pexels.com/fr-fr/photo/pipette-cosmetique-de-haute-qualite-avec-gouttelette-sur-fond-neutre-5908368/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/fr-fr/photo/pipette-cosmetique-de-haute-qualite-avec-gouttelette-sur-fond-neutre-5908368/",
+      "licence": "Licence Pexels — https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Compte-gouttes déposant une goutte de sérum visqueux et translucide sur une surface claire",
+      "legende": "Photo d’illustration — la viscosité d’un sérum ne dit rien de sa concentration : elle dépend surtout du poids moléculaire.",
+      "telecharge_le": "2026-08-26"
+    },
+    {
+      "fichier": "images/articles/ha-application-serum.jpg",
+      "auteur": "cottonbro studio",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@cottonbro/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/fr-fr/photo/femme-de-profil-appliquant-un-serum-pour-la-peau-avec-un-compte-gouttes-4612159/",
+      "licence": "Licence Pexels — https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Une personne, serviette sur les cheveux, applique un sérum au compte-gouttes sur son front après le nettoyage",
+      "legende": "Photo d’illustration — le sérum se pose juste après le nettoyage, avant que la peau n’ait fini de sécher.",
+      "telecharge_le": "2026-08-26"
+    },
+    {
+      "fichier": "images/articles/ha-peau-humide.jpg",
+      "auteur": "cottonbro studio",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@cottonbro/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/fr-fr/photo/gros-plan-du-visage-et-de-l-epaule-d-une-femme-avec-des-gouttelettes-d-eau-8343928/",
+      "licence": "Licence Pexels — https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Gros plan sur un menton, un cou et un décolleté couverts de fines gouttes d’eau en contre-jour",
+      "legende": "Photo d’illustration — un humectant a besoin d’eau disponible : sur peau parfaitement sèche, il n’a rien à capter.",
+      "telecharge_le": "2026-08-26"
     }
   ]
 }
