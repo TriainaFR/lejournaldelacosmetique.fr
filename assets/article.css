@@ -252,3 +252,4 @@ figcaption a:hover{ color:var(--noir); border-color:var(--noir); }
 /* sous 520 px la roue tombe à ~330 px : les matières deviennent illisibles, les noms suffisent */
 @media (max-width:520px){ .fig-svg .roue .mat{ display:none; } }
 .fig-svg .schema{ display:block; width:100%; height:auto; }
+.fig-svg .chaines{ display:block; width:100%; height:auto; }

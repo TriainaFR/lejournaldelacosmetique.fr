@@ -23,9 +23,9 @@ from datetime import date
 
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://www.lejournaldelacosmetique.fr"
-AUJ = "26 août 2026"
-AUJ_ISO = "2026-08-26"
-AUJ_COURT = "26.08.2026"
+AUJ = "27 août 2026"
+AUJ_ISO = "2026-08-27"
+AUJ_COURT = "27.08.2026"
 
 # ————————————————————————————————————————————————————————————————
 # RUBRIQUES — l'ordre est celui de la classification en page d'accueil
@@ -286,6 +286,22 @@ CORPUS = [
             "Ce que la molécule fait vraiment, et pourquoi le poids moléculaire décide de tout.",
       img="/images/articles/ha-pipette-goutte.jpg",
       alt="Compte-gouttes déposant une goutte de sérum visqueux et translucide sur une surface claire"),
+
+    # ————— Science —————
+    A("science",
+      "Acide hyaluronique : HMW, LMW, fragmenté, toutes les formes",
+      "Décryptage",
+      "27 août 2026", "2026-08-27",
+      "15 min",
+      "/science/acide-hyaluronique-formes-hmw-lmw-fragmente/",
+      ("acide hyaluronique", "HMW", "LMW", "poids moléculaire", "kilodalton",
+       "sodium hyaluronate", "hydrolyzed hyaluronic acid", "sodium hyaluronate crosspolymer",
+       "réticulation", "TEWL", "perte insensible en eau", "liste INCI", "humectant"),
+      une=True,
+      chapo="Plus petit n\u2019est pas mieux : sur peau humaine reconstruite, le bas poids moléculaire a fait "
+            "grimper la perte en eau de 55 %. Ce que recouvrent vraiment HMW, LMW et fragmenté.",
+      img="/images/articles/ha2-flacons-alignes.jpg",
+      alt="Rangée de flacons de sérum ambrés à bouchon compte-gouttes alignés sur une étagère en bois"),
 
     # ————————————————————————————————————————————————————————————
     # Pour publier un nouvel article : ajouter une entrée sur ce modèle,

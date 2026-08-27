@@ -1,6 +1,6 @@
 {
   "a_propos": "Provenance de chaque image hébergée sur lejournaldelacosmetique.fr. Toute photographie publiée doit figurer ici avec son auteur, sa source et sa licence.",
-  "mis_a_jour": "2026-08-26",
+  "mis_a_jour": "2026-08-27",
   "images": [
     {
       "fichier": "images/articles/inci-lire-etiquette-rayon.jpg",
@@ -565,6 +565,42 @@
       "alt": "Gros plan sur un menton, un cou et un décolleté couverts de fines gouttes d’eau en contre-jour",
       "legende": "Photo d’illustration — un humectant a besoin d’eau disponible : sur peau parfaitement sèche, il n’a rien à capter.",
       "telecharge_le": "2026-08-26"
+    },
+    {
+      "fichier": "images/articles/ha2-flacons-alignes.jpg",
+      "auteur": "cottonbro studio",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@cottonbro/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/fr-fr/photo/rangee-de-bouteilles-de-serum-marron-avec-des-bouchons-compte-gouttes-8657380/",
+      "licence": "Licence Pexels — https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Rangée de flacons de sérum ambrés à bouchon compte-gouttes alignés sur une étagère en bois",
+      "legende": "Photo d’illustration — sur l’étagère, tous ces flacons annoncent le même actif. Dans le flacon, pas la même molécule.",
+      "telecharge_le": "2026-08-27"
+    },
+    {
+      "fichier": "images/articles/ha2-lecture-etiquette.jpg",
+      "auteur": "Sam Lion",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@sam-lion/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/fr-fr/photo/jeune-femme-lisant-attentivement-l-etiquette-d-un-produit-5709642/",
+      "licence": "Licence Pexels — https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Une personne examine l’étiquette d’un flacon de soin dans une boutique, produit tenu à deux mains",
+      "legende": "Photo d’illustration — la liste INCI donne un ordre de concentration, jamais une masse moléculaire.",
+      "telecharge_le": "2026-08-27"
+    },
+    {
+      "fichier": "images/articles/ha2-gel-viscosite.jpg",
+      "auteur": "Fernando Serrano",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@fernando-serrano-2117561963/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/fr-fr/photo/pipette-distribuant-du-gel-cosmetique-violet-clair-16100839/",
+      "licence": "Licence Pexels — https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Compte-gouttes en verre déposant une nappe de gel translucide lilas parcourue de bulles, sur fond clair",
+      "legende": "Photo d’illustration — la viscosité d’un gel trahit la longueur des chaînes bien mieux que le pourcentage affiché.",
+      "telecharge_le": "2026-08-27"
     }
   ]
 }
