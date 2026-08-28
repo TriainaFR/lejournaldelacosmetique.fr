@@ -23,9 +23,9 @@ from datetime import date
 
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://www.lejournaldelacosmetique.fr"
-AUJ = "27 août 2026"
-AUJ_ISO = "2026-08-27"
-AUJ_COURT = "27.08.2026"
+AUJ = "28 août 2026"
+AUJ_ISO = "2026-08-28"
+AUJ_COURT = "28.08.2026"
 
 # ————————————————————————————————————————————————————————————————
 # RUBRIQUES — l'ordre est celui de la classification en page d'accueil
@@ -302,6 +302,22 @@ CORPUS = [
             "grimper la perte en eau de 55 %. Ce que recouvrent vraiment HMW, LMW et fragmenté.",
       img="/images/articles/ha2-flacons-alignes.jpg",
       alt="Rangée de flacons de sérum ambrés à bouchon compte-gouttes alignés sur une étagère en bois"),
+
+    # ————— Cheveux —————
+    A("cheveux",
+      "Cheveux bouclés : routine, produits et gestes",
+      "Guide",
+      "28 août 2026", "2026-08-28",
+      "17 min",
+      "/cheveux/cheveux-boucles-routine-produits-gestes/",
+      ("cheveux bouclés", "routine cheveux bouclés", "co-washing", "méthode Curly Girl",
+       "leave-in", "gel définisseur", "plopping", "porosité", "types de boucles",
+       "2A 4C", "glycérine", "bonnet satin", "diffuseur", "beurre de karité"),
+      une=True,
+      chapo="La classification 2A-4C a été inventée pour vendre une gamme, pas pour décrire une fibre. "
+            "Ce qui compte vraiment : la porosité, l\u2019eau, et trois gestes qui ne coûtent rien.",
+      img="/images/articles/boucles-textures-trio.jpg",
+      alt="Trois personnes aux cheveux bouclés, la première au premier plan avec des boucles blondes définies"),
 
     # ————————————————————————————————————————————————————————————
     # Pour publier un nouvel article : ajouter une entrée sur ce modèle,

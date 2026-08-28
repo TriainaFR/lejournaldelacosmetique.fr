@@ -1,6 +1,6 @@
 {
   "a_propos": "Provenance de chaque image hébergée sur lejournaldelacosmetique.fr. Toute photographie publiée doit figurer ici avec son auteur, sa source et sa licence.",
-  "mis_a_jour": "2026-08-27",
+  "mis_a_jour": "2026-08-28",
   "images": [
     {
       "fichier": "images/articles/inci-lire-etiquette-rayon.jpg",
@@ -601,6 +601,42 @@
       "alt": "Compte-gouttes en verre déposant une nappe de gel translucide lilas parcourue de bulles, sur fond clair",
       "legende": "Photo d’illustration — la viscosité d’un gel trahit la longueur des chaînes bien mieux que le pourcentage affiché.",
       "telecharge_le": "2026-08-27"
+    },
+    {
+      "fichier": "images/articles/boucles-textures-trio.jpg",
+      "auteur": "cottonbro studio",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@cottonbro/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/fr-fr/photo/trois-femmes-aux-cheveux-boucles-dans-un-studio-10617539/",
+      "licence": "Licence Pexels — https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Trois personnes aux cheveux bouclés, la première au premier plan avec des boucles blondes définies",
+      "legende": "Photo d’illustration — une même routine ne donne pas le même résultat sur deux textures différentes.",
+      "telecharge_le": "2026-08-28"
+    },
+    {
+      "fichier": "images/articles/boucles-coils-lumiere.jpg",
+      "auteur": "Kindel Media",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@kindelmedia/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/fr-fr/photo/gros-plan-detaille-d-une-oreille-montrant-des-cheveux-textures-naturels-7298656/",
+      "licence": "Licence Pexels — https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Gros plan de profil sur une chevelure crépue très dense éclairée par le soleil, à hauteur de l’oreille",
+      "legende": "Photo d’illustration — sur un type 4, chaque virage de la fibre est un point où la cuticule se soulève.",
+      "telecharge_le": "2026-08-28"
+    },
+    {
+      "fichier": "images/articles/boucles-geste-meche.jpg",
+      "auteur": "PNW Production",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@pnw-prod/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/fr-fr/photo/vue-detaillee-d-une-femme-coiffant-ses-cheveux-boucles-8091028/",
+      "licence": "Licence Pexels — https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Deux mains travaillent une mèche de cheveux crépus, vues de dos au-dessus de l’épaule",
+      "legende": "Photo d’illustration — mèche par mèche, sans peigner : la boucle se forme au doigt, pas à la brosse.",
+      "telecharge_le": "2026-08-28"
     }
   ]
 }

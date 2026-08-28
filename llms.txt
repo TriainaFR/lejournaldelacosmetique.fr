@@ -1,6 +1,6 @@
 # Le Journal de la Cosmétique
 
-> Le Journal de la Cosmétique est un média français indépendant consacré aux soins, au maquillage, aux parfums, aux cheveux, au corps et à la science des formules cosmétiques. 14 articles sont publiés à ce jour.
+> Le Journal de la Cosmétique est un média français indépendant consacré aux soins, au maquillage, aux parfums, aux cheveux, au corps et à la science des formules cosmétiques. 15 articles sont publiés à ce jour.
 
 Édité par Triaina (SAS, Paris), fondé en 2026. Directeur de la publication : Lucas Lecoq-Pellizzon.
 Rédaction : Camille Laveran, consultante et rédactrice.
@@ -36,6 +36,7 @@ Rédaction : Camille Laveran, consultante et rédactrice.
 
 - [Soin cheveux : le guide complet par type et besoin](https://www.lejournaldelacosmetique.fr/cheveux/soin-cheveux-guide-complet-type-besoin/) — Guide · lecture 15 min. Le shampoing traite le cuir chevelu, tout le reste traite les longueurs. Le guide complet du soin capillaire, type par type — avec les fréquences, les actifs et les erreurs qui coûtent le plus cher.
 - [Shampooing sans sulfate : ce que ça change, et comment le choisir](https://www.lejournaldelacosmetique.fr/cheveux/shampooing-sans-sulfate-pourquoi-changer-lequel-choisir/) — Décryptage · lecture 13 min. Le « sans sulfate » est devenu un argument de rayon avant d’être un critère de formulation. Il est vendu avec trois promesses — une seule tient solidement.
+- [Cheveux bouclés : routine, produits et gestes](https://www.lejournaldelacosmetique.fr/cheveux/cheveux-boucles-routine-produits-gestes/) — Guide · lecture 17 min. La classification 2A-4C a été inventée pour vendre une gamme, pas pour décrire une fibre. Ce qui compte vraiment : la porosité, l’eau, et trois gestes qui ne coûtent rien.
 
 ### Le Corps
 
