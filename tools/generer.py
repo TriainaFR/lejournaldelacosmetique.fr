@@ -23,9 +23,9 @@ from datetime import date
 
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://www.lejournaldelacosmetique.fr"
-AUJ = "28 août 2026"
-AUJ_ISO = "2026-08-28"
-AUJ_COURT = "28.08.2026"
+AUJ = "31 août 2026"
+AUJ_ISO = "2026-08-31"
+AUJ_COURT = "31.08.2026"
 
 # ————————————————————————————————————————————————————————————————
 # RUBRIQUES — l'ordre est celui de la classification en page d'accueil
@@ -318,6 +318,22 @@ CORPUS = [
             "Ce qui compte vraiment : la porosité, l\u2019eau, et trois gestes qui ne coûtent rien.",
       img="/images/articles/boucles-textures-trio.jpg",
       alt="Trois personnes aux cheveux bouclés, la première au premier plan avec des boucles blondes définies"),
+
+    # ————— Maquillage —————
+    A("maquillage",
+      "Rouge à lèvres : formules, finitions et tendances couleur",
+      "Guide",
+      "31 août 2026", "2026-08-31",
+      "16 min",
+      "/maquillage/rouge-a-levres-formules-finitions-tendances-couleur/",
+      ("rouge à lèvres", "formules rouge à lèvres", "finitions rouge à lèvres", "mat", "satiné",
+       "brillant", "métallique", "cires", "huile de ricin", "pigments", "dioxyde de titane",
+       "CI 77891", "tendances couleur lèvres", "carnation", "liste INCI"),
+      une=True,
+      chapo="Un bâton, c\u2019est trois familles d\u2019ingrédients et un arbitrage. Plus il y a d\u2019huiles, "
+            "plus ça brille et moins ça tient : le ratio décide de la tenue, du confort et de la couleur.",
+      img="/images/articles/rouge-levres-trois-bullets.jpg",
+      alt="Trois bâtons de rouge à lèvres ouverts sur un plan de bois clair, à côté d\u2019une trace de rouge vif"),
 
     # ————————————————————————————————————————————————————————————
     # Pour publier un nouvel article : ajouter une entrée sur ce modèle,
