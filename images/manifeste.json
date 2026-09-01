@@ -1,6 +1,6 @@
 {
   "a_propos": "Provenance de chaque image hébergée sur lejournaldelacosmetique.fr. Toute photographie publiée doit figurer ici avec son auteur, sa source et sa licence.",
-  "mis_a_jour": "2026-08-31",
+  "mis_a_jour": "2026-09-01",
   "images": [
     {
       "fichier": "images/articles/inci-lire-etiquette-rayon.jpg",
@@ -673,6 +673,42 @@
       "alt": "Gros plan sur un bâton de rouge à lèvres corail entamé, posé sur son capuchon argenté, fond blanc",
       "legende": "Photo d’illustration : le biseau usé d’un bâton en dit long sur sa dureté, donc sur sa proportion de cires.",
       "telecharge_le": "2026-08-31"
+    },
+    {
+      "fichier": "images/articles/cellulite-massage-jambe.jpg",
+      "auteur": "Tima Miroshnichenko",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@tima-miroshnichenko/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/fr-fr/photo/gros-plan-sur-des-mains-donnant-un-massage-therapeutique-des-jambes-6188036/",
+      "licence": "Licence Pexels — https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Deux mains massent une jambe posée sur une table de soin, lumière chaude",
+      "legende": "Photo d’illustration : sur ce sujet, le geste pèse au moins autant que la formule.",
+      "telecharge_le": "2026-09-01"
+    },
+    {
+      "fichier": "images/articles/cellulite-palper-rouler.jpg",
+      "auteur": "Gustavo Fring",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@gustavo-fring/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/fr-fr/photo/une-vue-rapprochee-d-un-massage-des-jambes-5888062/",
+      "licence": "Licence Pexels — https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Quatre mains massent les jambes d’une personne allongée sur une table de soin recouverte de blanc",
+      "legende": "Photo d’illustration : la pression doit rester ferme sans jamais laisser de marque.",
+      "telecharge_le": "2026-09-01"
+    },
+    {
+      "fichier": "images/articles/cellulite-flacons-actifs.jpg",
+      "auteur": "Monstera Production",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@gabby-k/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/fr-fr/photo/trois-flacons-en-verre-ambre-6621462/",
+      "licence": "Licence Pexels — https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Trois flacons en verre ambré, pompe, spray et compte-gouttes, posés sur une surface claire parsemée de sel",
+      "legende": "Photo d’illustration : le nom sur le flacon compte moins que le rang de l’actif dans la liste INCI.",
+      "telecharge_le": "2026-09-01"
     }
   ]
 }

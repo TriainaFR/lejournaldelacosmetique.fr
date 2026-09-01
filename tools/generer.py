@@ -23,9 +23,9 @@ from datetime import date
 
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://www.lejournaldelacosmetique.fr"
-AUJ = "31 août 2026"
-AUJ_ISO = "2026-08-31"
-AUJ_COURT = "31.08.2026"
+AUJ = "1er septembre 2026"
+AUJ_ISO = "2026-09-01"
+AUJ_COURT = "01.09.2026"
 
 # ————————————————————————————————————————————————————————————————
 # RUBRIQUES — l'ordre est celui de la classification en page d'accueil
@@ -334,6 +334,22 @@ CORPUS = [
             "plus ça brille et moins ça tient : le ratio décide de la tenue, du confort et de la couleur.",
       img="/images/articles/rouge-levres-trois-bullets.jpg",
       alt="Trois bâtons de rouge à lèvres ouverts sur un plan de bois clair, à côté d\u2019une trace de rouge vif"),
+
+    # ————— Corps —————
+    A("corps",
+      "Cellulite : comprendre le phénomène et les soins qui agissent",
+      "Décryptage",
+      "1er septembre 2026", "2026-09-01",
+      "17 min",
+      "/corps/cellulite-comprendre-phenomene-soins-qui-agissent/",
+      ("cellulite", "lipodystrophie", "cloisons fibreuses", "septa", "cellulite aqueuse",
+       "cellulite fibreuse", "cellulite adipeuse", "caféine", "rétinol", "drainage lymphatique",
+       "palper-rouler", "endermologie", "cryolipolyse", "radiofréquence", "allégations cosmétiques"),
+      une=True,
+      chapo="Dans les essais contrôlés, le groupe placebo s\u2019améliore aussi. Une bonne part de ce "
+            "qu\u2019on prête aux crèmes revient au massage quotidien, pas aux actifs.",
+      img="/images/articles/cellulite-massage-jambe.jpg",
+      alt="Deux mains massent une jambe posée sur une table de soin, lumière chaude"),
 
     # ————————————————————————————————————————————————————————————
     # Pour publier un nouvel article : ajouter une entrée sur ce modèle,
