@@ -1,6 +1,6 @@
 # Le Journal de la Cosmétique
 
-> Le Journal de la Cosmétique est un média français indépendant consacré aux soins, au maquillage, aux parfums, aux cheveux, au corps et à la science des formules cosmétiques. 17 articles sont publiés à ce jour.
+> Le Journal de la Cosmétique est un média français indépendant consacré aux soins, au maquillage, aux parfums, aux cheveux, au corps et à la science des formules cosmétiques. 18 articles sont publiés à ce jour.
 
 Édité par Triaina (SAS, Paris), fondé en 2026. Directeur de la publication : Lucas Lecoq-Pellizzon.
 Rédaction : Camille Laveran, consultante et rédactrice.
@@ -32,6 +32,7 @@ Rédaction : Camille Laveran, consultante et rédactrice.
 
 - [Parfum : tout comprendre pour choisir son jus](https://www.lejournaldelacosmetique.fr/parfum/parfum-femme-guide-complet-choisir-son-jus/) — Guide · lecture 17 min. « Eau de parfum » n’est pas une norme, la pyramide olfactive n’est pas une propriété physique et les standards IFRA ne sont pas du droit. Ce qui est opposable, en revanche, est écrit sur l’étiquette.
 - [Comment choisir son parfum : les familles olfactives](https://www.lejournaldelacosmetique.fr/parfum/comment-choisir-son-parfum-familles-olfactives/) — Guide · lecture 16 min. Sept familles, cinq concentrations, une méthode. Et deux croyances de rayon à jeter : les grains de café ne réinitialisent rien, et votre pH n’y est pour presque rien.
+- [Parfum de niche : les meilleures maisons à connaître en 2026](https://www.lejournaldelacosmetique.fr/parfum/parfum-niche-meilleures-maisons/) — Sélection · lecture 21 min. Neuf maisons, leurs best-sellers et leurs prix. Et la question que les guides évitent : six d’entre elles appartiennent désormais à un groupe coté ou à un fonds.
 
 ### Les Cheveux
 

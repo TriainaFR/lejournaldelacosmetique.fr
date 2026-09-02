@@ -256,3 +256,4 @@ figcaption a:hover{ color:var(--noir); border-color:var(--noir); }
 .fig-svg .textures{ display:block; width:100%; height:auto; }
 .fig-svg .formules{ display:block; width:100%; height:auto; }
 .fig-svg .coupe{ display:block; width:100%; height:auto; }
+.fig-svg .proprio{ display:block; width:100%; max-width:560px; height:auto; margin:0 auto; }

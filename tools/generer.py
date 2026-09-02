@@ -23,9 +23,9 @@ from datetime import date
 
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://www.lejournaldelacosmetique.fr"
-AUJ = "1er septembre 2026"
-AUJ_ISO = "2026-09-01"
-AUJ_COURT = "01.09.2026"
+AUJ = "2 septembre 2026"
+AUJ_ISO = "2026-09-02"
+AUJ_COURT = "02.09.2026"
 
 # ————————————————————————————————————————————————————————————————
 # RUBRIQUES — l'ordre est celui de la classification en page d'accueil
@@ -350,6 +350,22 @@ CORPUS = [
             "qu\u2019on prête aux crèmes revient au massage quotidien, pas aux actifs.",
       img="/images/articles/cellulite-massage-jambe.jpg",
       alt="Deux mains massent une jambe posée sur une table de soin, lumière chaude"),
+
+    # ————— Parfum —————
+    A("parfum",
+      "Parfum de niche : les meilleures maisons \u00e0 conna\u00eetre en 2026",
+      "S\u00e9lection",
+      "2 septembre 2026", "2026-09-02",
+      "21 min",
+      "/parfum/parfum-niche-meilleures-maisons/",
+      ("parfum de niche", "maisons de niche", "BDK Parfums", "Serge Lutens",
+       "Juliette Has a Gun", "Diptyque", "Creed", "Le Labo", "Byredo", "Xerjoff",
+       "Amouage", "Jovoy Paris", "Nose Paris", "concentration", "Esxence"),
+      une=True,
+      chapo="Neuf maisons, leurs best-sellers et leurs prix. Et la question que les guides \u00e9vitent : "
+            "six d\u2019entre elles appartiennent d\u00e9sormais \u00e0 un groupe cot\u00e9 ou \u00e0 un fonds.",
+      img="/images/articles/niche-etageres-boutique.jpg",
+      alt="Rang\u00e9es de flacons de parfum align\u00e9s sur les \u00e9tag\u00e8res \u00e9clair\u00e9es d\u2019une boutique sp\u00e9cialis\u00e9e"),
 
     # ————————————————————————————————————————————————————————————
     # Pour publier un nouvel article : ajouter une entrée sur ce modèle,

@@ -1,6 +1,6 @@
 {
   "a_propos": "Provenance de chaque image hébergée sur lejournaldelacosmetique.fr. Toute photographie publiée doit figurer ici avec son auteur, sa source et sa licence.",
-  "mis_a_jour": "2026-09-01",
+  "mis_a_jour": "2026-09-02",
   "images": [
     {
       "fichier": "images/articles/inci-lire-etiquette-rayon.jpg",
@@ -709,6 +709,32 @@
       "alt": "Trois flacons en verre ambré, pompe, spray et compte-gouttes, posés sur une surface claire parsemée de sel",
       "legende": "Photo d’illustration : le nom sur le flacon compte moins que le rang de l’actif dans la liste INCI.",
       "telecharge_le": "2026-09-01"
+    },
+    {
+      "fichier": "images/articles/niche-etageres-boutique.jpg",
+      "auteur": "Omkar Jadhav",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@jadhav24omkar/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/photo/5206893/",
+      "licence": "Licence Pexels : https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration, image de une",
+      "alt": "Rangées de flacons de parfum alignés sur les étagères éclairées d’une boutique spécialisée",
+      "legende": "Photo d’illustration : la parfumerie de niche se joue encore largement dans des boutiques où l’on prend le temps de sentir.",
+      "telecharge_le": "2026-09-02",
+      "modification": "recadrée en 16/9 pour écarter le rayon du bas, où une marque tierce était lisible"
+    },
+    {
+      "fichier": "images/articles/niche-mouillette-parfumeur.jpg",
+      "auteur": "MART PRODUCTION",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@mart-production/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/photo/8450218/",
+      "licence": "Licence Pexels : https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Un homme aux cheveux blancs, yeux fermés, respire une mouillette de papier devant un mur clair",
+      "legende": "Photo d’illustration : la mouillette sert à trier, la peau à décider. Les deux gestes ne répondent pas à la même question.",
+      "telecharge_le": "2026-09-02",
+      "modification": "recadrée en 3/2 depuis un original vertical, pour éviter le rognage automatique du visage"
     }
   ]
 }
