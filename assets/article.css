@@ -247,6 +247,25 @@ figcaption a:hover{ color:var(--noir); border-color:var(--noir); }
 .encart p{ margin-top:13px; font-size:15px; line-height:1.65; color:#3A3A33; max-width:68ch; }
 
 /* ————— infographie vectorielle ————— */
+.indice{ margin:34px 0; border:1px solid var(--noir); border-top:6px solid var(--noir); background:var(--blanc); padding:24px 26px 26px; }
+.indice .k{ font-family:var(--mono); font-size:10px; letter-spacing:.16em; text-transform:uppercase; color:var(--cobalt); }
+.indice .tete{ margin-top:13px; display:grid; grid-template-columns:auto 1fr; gap:22px; align-items:start; }
+.indice .note{ margin:0; font-weight:900; font-stretch:120%; font-size:52px; line-height:.86; letter-spacing:-.02em; }
+.indice .note i{ font-style:normal; font-family:var(--mono); font-size:13px; font-weight:400; letter-spacing:.04em; color:var(--gris); }
+.indice h3{ margin:0; font-weight:900; font-stretch:110%; text-transform:uppercase; font-size:18px; line-height:1.15; }
+.indice .res{ margin-top:8px; font-size:14.5px; line-height:1.55; color:#3A3A33; max-width:60ch; }
+.indice dl{ margin-top:20px; }
+.indice .row{ display:grid; grid-template-columns:118px 62px 1fr; gap:14px; padding:11px 0; border-top:1px solid var(--hair); align-items:baseline; }
+.indice dt{ font-family:var(--mono); font-size:10px; letter-spacing:.06em; text-transform:uppercase; color:var(--gris); }
+.indice dd{ margin:0; font-size:14px; line-height:1.55; color:#3A3A33; }
+.indice .pts{ font-family:var(--mono); font-size:13px; font-weight:700; color:var(--noir); }
+.indice .bas{ margin-top:16px; padding-top:14px; border-top:1px solid var(--noir); max-width:none; font-family:var(--mono); font-size:11px; line-height:1.65; color:var(--gris); }
+.indice .bas a{ border-bottom:1px solid var(--acide-d); }
+@media (max-width:560px){
+  .indice .tete{ grid-template-columns:1fr; gap:10px; }
+  .indice .row{ grid-template-columns:1fr 62px; }
+  .indice .row dd:last-child{ grid-column:1 / -1; }
+}
 .fig-svg{ margin:38px 0; }
 .fig-svg .roue{ display:block; width:100%; max-width:520px; height:auto; margin:0 auto; }
 /* sous 520 px la roue tombe à ~330 px : les matières deviennent illisibles, les noms suffisent */
