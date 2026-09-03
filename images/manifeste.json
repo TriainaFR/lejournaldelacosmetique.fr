@@ -1,6 +1,6 @@
 {
   "a_propos": "Provenance de chaque image hébergée sur lejournaldelacosmetique.fr. Toute photographie publiée doit figurer ici avec son auteur, sa source et sa licence.",
-  "mis_a_jour": "2026-09-02",
+  "mis_a_jour": "2026-09-03",
   "images": [
     {
       "fichier": "images/articles/inci-lire-etiquette-rayon.jpg",
@@ -735,6 +735,31 @@
       "legende": "Photo d’illustration : la mouillette sert à trier, la peau à décider. Les deux gestes ne répondent pas à la même question.",
       "telecharge_le": "2026-09-02",
       "modification": "recadrée en 3/2 depuis un original vertical, pour éviter le rognage automatique du visage"
+    },
+    {
+      "fichier": "images/articles/retinol-pipette-serum.jpg",
+      "auteur": "Karola G",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@karola-g/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/photo/4735937/",
+      "licence": "Licence Pexels : https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration, image de une",
+      "alt": "Une pipette de verre libère une goutte de sérum au-dessus d’un flacon dépoli",
+      "legende": "Photo d’illustration : sur cet actif, la quantité déposée compte autant que le pourcentage annoncé sur le flacon.",
+      "telecharge_le": "2026-09-03",
+      "modification": "recadrée en 16/9 depuis un original vertical, centrée sur la goutte et le col du flacon"
+    },
+    {
+      "fichier": "images/articles/retinol-routine-soir.jpg",
+      "auteur": "Ron Lach",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@ron-lach/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/photo/10222467/",
+      "licence": "Licence Pexels : https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Une femme en pyjama devant un miroir de salle de bains rétroéclairé, le soir",
+      "legende": "Photo d’illustration : le rétinol est un soin du soir, pour deux raisons distinctes qui sont souvent confondues.",
+      "telecharge_le": "2026-09-03"
     }
   ]
 }

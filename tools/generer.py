@@ -23,9 +23,9 @@ from datetime import date
 
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://www.lejournaldelacosmetique.fr"
-AUJ = "2 septembre 2026"
-AUJ_ISO = "2026-09-02"
-AUJ_COURT = "02.09.2026"
+AUJ = "3 septembre 2026"
+AUJ_ISO = "2026-09-03"
+AUJ_COURT = "03.09.2026"
 
 # ————————————————————————————————————————————————————————————————
 # RUBRIQUES — l'ordre est celui de la classification en page d'accueil
@@ -366,6 +366,23 @@ CORPUS = [
             "six d\u2019entre elles appartiennent d\u00e9sormais \u00e0 un groupe cot\u00e9 ou \u00e0 un fonds.",
       img="/images/articles/niche-etageres-boutique.jpg",
       alt="Rang\u00e9es de flacons de parfum align\u00e9s sur les \u00e9tag\u00e8res \u00e9clair\u00e9es d\u2019une boutique sp\u00e9cialis\u00e9e"),
+
+    # ————— Soin visage —————
+    A("soin-visage",
+      "R\u00e9tinol : guide complet, effets, dosage et pr\u00e9cautions",
+      "Guide",
+      "3 septembre 2026", "2026-09-03",
+      "21 min",
+      "/soin-visage/retinol-guide-complet-effets-dosage-precautions/",
+      ("r\u00e9tinol", "r\u00e9tinol dosage", "r\u00e9tinol effets secondaires", "r\u00e9tinol peau sensible",
+       "r\u00e9tinol grossesse", "r\u00e9tinald\u00e9hyde", "r\u00e9tinal", "r\u00e9tinyl palmitate",
+       "r\u00e9tino\u00efdes", "vitamine A", "r\u00e8glement 2024/996", "\u00e9quivalent r\u00e9tinol",
+       "acide r\u00e9tino\u00efque", "tr\u00e9tino\u00efne", "encapsul\u00e9"),
+      une=True,
+      chapo="Depuis novembre 2025, l\u2019Europe plafonne le r\u00e9tinol \u00e0 0,3 %. Ce que \u00e7a change en rayon, "
+            "quelle concentration commencer, et pourquoi le r\u00e9tinald\u00e9hyde \u00e9chappe au texte.",
+      img="/images/articles/retinol-pipette-serum.jpg",
+      alt="Une pipette de verre lib\u00e8re une goutte de s\u00e9rum au-dessus d\u2019un flacon d\u00e9poli"),
 
     # ————————————————————————————————————————————————————————————
     # Pour publier un nouvel article : ajouter une entrée sur ce modèle,
