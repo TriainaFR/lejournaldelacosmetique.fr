@@ -23,9 +23,9 @@ from datetime import date
 
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://www.lejournaldelacosmetique.fr"
-AUJ = "3 septembre 2026"
-AUJ_ISO = "2026-09-03"
-AUJ_COURT = "03.09.2026"
+AUJ = "4 septembre 2026"
+AUJ_ISO = "2026-09-04"
+AUJ_COURT = "04.09.2026"
 
 # ————————————————————————————————————————————————————————————————
 # RUBRIQUES — l'ordre est celui de la classification en page d'accueil
@@ -383,6 +383,23 @@ CORPUS = [
             "quelle concentration commencer, et pourquoi le r\u00e9tinald\u00e9hyde \u00e9chappe au texte.",
       img="/images/articles/retinol-pipette-serum.jpg",
       alt="Une pipette de verre lib\u00e8re une goutte de s\u00e9rum au-dessus d\u2019un flacon d\u00e9poli"),
+
+    # ————— Science —————
+    A("science",
+      "R\u00e9tinol vs acide glycolique : lequel choisir selon sa peau ?",
+      "D\u00e9cryptage",
+      "4 septembre 2026", "2026-09-04",
+      "17 min",
+      "/science/retinol-vs-acide-glycolique-lequel-choisir-selon-sa-peau/",
+      ("r\u00e9tinol", "acide glycolique", "AHA", "exfoliant chimique", "vitamine A",
+       "anti-\u00e2ge", "routine soin visage", "INCI", "r\u00e9tinald\u00e9hyde",
+       "hydroxypinacolone r\u00e9tinoate", "desmosomes", "pH", "r\u00e8glement 2024/996",
+       "SCCNFP", "alternance"),
+      une=True,
+      chapo="Ne les appliquez pas le m\u00eame soir. Mais pas pour la raison qu\u2019on vous r\u00e9p\u00e8te : "
+            "le pH n\u2019y est pour rien, et cette nuance change le protocole.",
+      img="/images/articles/duel-deux-flacons-mains.jpg",
+      alt="Deux mains ouvertes pr\u00e9sentent chacune un flacon compte-gouttes en verre ambr\u00e9"),
 
     # ————————————————————————————————————————————————————————————
     # Pour publier un nouvel article : ajouter une entrée sur ce modèle,

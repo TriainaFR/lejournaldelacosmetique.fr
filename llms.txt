@@ -1,6 +1,6 @@
 # Le Journal de la Cosmétique
 
-> Le Journal de la Cosmétique est un média français indépendant consacré aux soins, au maquillage, aux parfums, aux cheveux, au corps et à la science des formules cosmétiques. 19 articles sont publiés à ce jour.
+> Le Journal de la Cosmétique est un média français indépendant consacré aux soins, au maquillage, aux parfums, aux cheveux, au corps et à la science des formules cosmétiques. 20 articles sont publiés à ce jour.
 
 Édité par Triaina (SAS, Paris), fondé en 2026. Directeur de la publication : Lucas Lecoq-Pellizzon.
 Rédaction : Camille Laveran, consultante et rédactrice.
@@ -52,6 +52,7 @@ Rédaction : Camille Laveran, consultante et rédactrice.
 - [Ingrédients cosmétiques : notre guide complet pour décrypter la liste INCI](https://www.lejournaldelacosmetique.fr/science/ingredients-cosmetiques-decryptage-inci-complet/) — Décryptage · lecture 16 min. La liste INCI classe les ingrédients par concentration décroissante, en latin pour le végétal et en anglais pour le chimique. Ce qu'elle révèle, ce qu'elle cache, et comment la lire en cinq minutes.
 - [Niacinamide : ce que la littérature établit vraiment](https://www.lejournaldelacosmetique.fr/science/niacinamide-bienfaits-concentration-associations/) — Décryptage · lecture 15 min. Une grande partie de ce qu’on prête à la niacinamide vient de résultats obtenus en boîte de culture, présentés comme des effets cliniques. Le tri, effet par effet.
 - [Acide hyaluronique : HMW, LMW, fragmenté, toutes les formes](https://www.lejournaldelacosmetique.fr/science/acide-hyaluronique-formes-hmw-lmw-fragmente/) — Décryptage · lecture 15 min. Plus petit n’est pas mieux : sur peau humaine reconstruite, le bas poids moléculaire a fait grimper la perte en eau de 55 %. Ce que recouvrent vraiment HMW, LMW et fragmenté.
+- [Rétinol vs acide glycolique : lequel choisir selon sa peau ?](https://www.lejournaldelacosmetique.fr/science/retinol-vs-acide-glycolique-lequel-choisir-selon-sa-peau/) — Décryptage · lecture 17 min. Ne les appliquez pas le même soir. Mais pas pour la raison qu’on vous répète : le pH n’y est pour rien, et cette nuance change le protocole.
 
 ## Rubriques
 

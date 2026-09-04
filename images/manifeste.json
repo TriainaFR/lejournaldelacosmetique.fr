@@ -1,6 +1,6 @@
 {
   "a_propos": "Provenance de chaque image hébergée sur lejournaldelacosmetique.fr. Toute photographie publiée doit figurer ici avec son auteur, sa source et sa licence.",
-  "mis_a_jour": "2026-09-03",
+  "mis_a_jour": "2026-09-04",
   "images": [
     {
       "fichier": "images/articles/inci-lire-etiquette-rayon.jpg",
@@ -760,6 +760,32 @@
       "alt": "Une femme en pyjama devant un miroir de salle de bains rétroéclairé, le soir",
       "legende": "Photo d’illustration : le rétinol est un soin du soir, pour deux raisons distinctes qui sont souvent confondues.",
       "telecharge_le": "2026-09-03"
+    },
+    {
+      "fichier": "images/articles/duel-deux-flacons-mains.jpg",
+      "auteur": "SHVETS production",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@shvets-production/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/photo/9775175/",
+      "licence": "Licence Pexels : https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration, image de une",
+      "alt": "Deux mains ouvertes présentent chacune un flacon compte-gouttes en verre ambré",
+      "legende": "Photo d’illustration : la question n’est pas seulement lequel choisir, mais dans quel ordre et à quel rythme.",
+      "telecharge_le": "2026-09-04",
+      "modification": "recadrée en 16/9 depuis un original 3/2"
+    },
+    {
+      "fichier": "images/articles/duel-flacons-ambre-jaune.jpg",
+      "auteur": "Rendy Ramdani",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@rendy-ramdani-3031741/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/photo/12146904/",
+      "licence": "Licence Pexels : https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Deux flacons compte-gouttes en verre, l’un ambré et l’autre jaune pâle, posés sur un tissu blanc",
+      "legende": "Photo d’illustration : deux flacons qui se ressemblent, deux actifs qui ne font pas du tout le même travail.",
+      "telecharge_le": "2026-09-04",
+      "modification": "recadrée en 3/2 depuis un original vertical, cadrée sur les deux flacons"
     }
   ]
 }
