@@ -547,7 +547,7 @@ def tete(titre, desc, url, extra_css="", robots="index, follow, max-image-previe
   <link rel="preload" href="/assets/fonts/archivo-var-latin.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/assets/fonts/fragment-mono-latin.woff2" as="font" type="font/woff2" crossorigin>
 
-  <!-- Mesure d'audience sans cookie : Plausible -->
+  <!-- Privacy-friendly analytics by Plausible -->
   <script async src="https://plausible.io/js/pa-LIlP7934qIm8IwfZlVE3d.js"></script>
   <script>
     window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
@@ -839,7 +839,7 @@ def page_accueil():
   </script>
 
 
-  <!-- Mesure d'audience sans cookie : Plausible -->
+  <!-- Privacy-friendly analytics by Plausible -->
   <script async src="https://plausible.io/js/pa-LIlP7934qIm8IwfZlVE3d.js"></script>
   <script>
     window.plausible=window.plausible||function(){{(plausible.q=plausible.q||[]).push(arguments)}},plausible.init=plausible.init||function(i){{plausible.o=i||{{}}}};
