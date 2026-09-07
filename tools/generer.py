@@ -546,6 +546,13 @@ def tete(titre, desc, url, extra_css="", robots="index, follow, max-image-previe
   <link rel="stylesheet" href="/assets/search.css">
   <link rel="preload" href="/assets/fonts/archivo-var-latin.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/assets/fonts/fragment-mono-latin.woff2" as="font" type="font/woff2" crossorigin>
+
+  <!-- Mesure d'audience sans cookie : Plausible -->
+  <script async src="https://plausible.io/js/pa-LIlP7934qIm8IwfZlVE3d.js"></script>
+  <script>
+    window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+    plausible.init()
+  </script>
 %s""" % (e(titre), e(desc), SITE, url, robots, e(titre), e(desc), SITE, url, extra_css)
 
 # ————————————————————————————————————————————————————————————————
@@ -829,6 +836,14 @@ def page_accueil():
       }}
     ]
   }}
+  </script>
+
+
+  <!-- Mesure d'audience sans cookie : Plausible -->
+  <script async src="https://plausible.io/js/pa-LIlP7934qIm8IwfZlVE3d.js"></script>
+  <script>
+    window.plausible=window.plausible||function(){{(plausible.q=plausible.q||[]).push(arguments)}},plausible.init=plausible.init||function(i){{plausible.o=i||{{}}}};
+    plausible.init()
   </script>
 
   <script>document.documentElement.classList.add('js');</script>
@@ -1298,7 +1313,7 @@ Rédaction : Camille Laveran, consultante et rédactrice.
 - [À propos](%s/a-propos/) : genèse, mission, charte éditoriale, direction de la publication
 - [Notre méthode](%s/notre-methode/) : protocole de test, lecture des listes INCI, hiérarchie des sources, indépendance, politique de correction
 - [Contact](%s/contact/) : conditions de partenariat, demandes juridiques — redaction@lejournaldelacosmetique.fr
-- [Mentions légales](%s/mentions-legales/) — [Confidentialité](%s/politique-de-confidentialite/) : aucun cookie, aucun traceur, aucun fichier de visiteurs
+- [Mentions légales](%s/mentions-legales/) — [Confidentialité](%s/politique-de-confidentialite/) : aucun cookie, aucun profilage, aucun fichier de visiteurs ; mesure d'audience sans cookie hébergée dans l'UE
 
 ## Formats
 
