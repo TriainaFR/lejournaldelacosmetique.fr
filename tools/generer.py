@@ -403,8 +403,8 @@ CORPUS = [
 
     # ————— Soin visage —————
     A("soin-visage",
-      "Meilleures cr\u00e8mes de jour 2026 : notre comparatif marques",
-      "Comparatif",
+      "Meilleures cr\u00e8mes de jour 2026 : notre classement des marques",
+      "Classement",
       "8 septembre 2026", "2026-09-08",
       "18 min",
       "/soin-visage/meilleures-cremes-de-jour-comparatif-marques/",
@@ -413,8 +413,8 @@ CORPUS = [
        "La Roche-Posay", "Bioderma", "Av\u00e8ne", "Vichy", "CeraVe", "Diadermine",
        "Lanc\u00f4me", "60 Millions de Consommateurs"),
       une=True,
-      chapo="Huit formules relues ligne \u00e0 ligne. Cinq argumentaires sur huit annon\u00e7aient un actif "
-            "qui ne figure pas dans la composition.",
+      chapo="Huit cr\u00e8mes class\u00e9es de la premi\u00e8re \u00e0 la huiti\u00e8me place, de 3,90 \u00e0 120 \u20ac. "
+            "Cinq argumentaires sur huit annon\u00e7aient un actif qui ne figure pas dans la composition.",
       img="/images/articles/cremes-jour-deux-pots.jpg",
       alt="Deux pots de cr\u00e8me ouverts, vus de dessus sur un fond clair"),
 

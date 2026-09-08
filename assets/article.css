@@ -279,6 +279,7 @@ figcaption a:hover{ color:var(--noir); border-color:var(--noir); }
 .fig-svg .cascade{ display:block; width:100%; max-width:560px; height:auto; margin:0 auto; }
 .fig-svg .alternance{ display:block; width:100%; max-width:600px; height:auto; margin:0 auto; }
 .fig-svg .chrono{ display:block; width:100%; max-width:600px; height:auto; margin:0 auto; }
+.fig-svg .classement{ display:block; width:100%; max-width:560px; height:auto; margin:0 auto; }
 @media (max-width:560px){
   .fig-svg .alternance .mot{ display:none; }
   .fig-svg .alternance .jour{ font-size:19px; font-weight:700; fill-opacity:.95; transform:translateY(17px); }
