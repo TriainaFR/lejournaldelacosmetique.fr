@@ -23,9 +23,9 @@ from datetime import date
 
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://www.lejournaldelacosmetique.fr"
-AUJ = "4 septembre 2026"
-AUJ_ISO = "2026-09-04"
-AUJ_COURT = "04.09.2026"
+AUJ = "8 septembre 2026"
+AUJ_ISO = "2026-09-08"
+AUJ_COURT = "08.09.2026"
 
 # ————————————————————————————————————————————————————————————————
 # RUBRIQUES — l'ordre est celui de la classification en page d'accueil
@@ -400,6 +400,23 @@ CORPUS = [
             "le pH n\u2019y est pour rien, et cette nuance change le protocole.",
       img="/images/articles/duel-deux-flacons-mains.jpg",
       alt="Deux mains ouvertes pr\u00e9sentent chacune un flacon compte-gouttes en verre ambr\u00e9"),
+
+    # ————— Soin visage —————
+    A("soin-visage",
+      "Meilleures cr\u00e8mes de jour 2026 : notre comparatif marques",
+      "Comparatif",
+      "8 septembre 2026", "2026-09-08",
+      "18 min",
+      "/soin-visage/meilleures-cremes-de-jour-comparatif-marques/",
+      ("cr\u00e8me de jour", "comparatif cr\u00e8mes de jour", "cr\u00e8me de jour SPF",
+       "cr\u00e8me de jour bio", "liste INCI", "homosalate", "allerg\u00e8nes de parfum",
+       "La Roche-Posay", "Bioderma", "Av\u00e8ne", "Vichy", "CeraVe", "Diadermine",
+       "Lanc\u00f4me", "60 Millions de Consommateurs"),
+      une=True,
+      chapo="Huit formules relues ligne \u00e0 ligne. Cinq argumentaires sur huit annon\u00e7aient un actif "
+            "qui ne figure pas dans la composition.",
+      img="/images/articles/cremes-jour-deux-pots.jpg",
+      alt="Deux pots de cr\u00e8me ouverts, vus de dessus sur un fond clair"),
 
     # ————————————————————————————————————————————————————————————
     # Pour publier un nouvel article : ajouter une entrée sur ce modèle,

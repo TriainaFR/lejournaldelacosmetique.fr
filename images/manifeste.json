@@ -1,6 +1,6 @@
 {
   "a_propos": "Provenance de chaque image hébergée sur lejournaldelacosmetique.fr. Toute photographie publiée doit figurer ici avec son auteur, sa source et sa licence.",
-  "mis_a_jour": "2026-09-04",
+  "mis_a_jour": "2026-09-08",
   "images": [
     {
       "fichier": "images/articles/inci-lire-etiquette-rayon.jpg",
@@ -786,6 +786,31 @@
       "legende": "Photo d’illustration : deux flacons qui se ressemblent, deux actifs qui ne font pas du tout le même travail.",
       "telecharge_le": "2026-09-04",
       "modification": "recadrée en 3/2 depuis un original vertical, cadrée sur les deux flacons"
+    },
+    {
+      "fichier": "images/articles/cremes-jour-deux-pots.jpg",
+      "auteur": "Karola G",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@karola-g/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/photo/7321509/",
+      "licence": "Licence Pexels : https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration, image de une",
+      "alt": "Deux pots de crème ouverts, vus de dessus sur un fond clair",
+      "legende": "Photo d’illustration : deux textures voisines, deux compositions qui n’ont parfois rien à voir.",
+      "telecharge_le": "2026-09-08",
+      "modification": "recadrée en 16/9 depuis un original vertical"
+    },
+    {
+      "fichier": "images/articles/cremes-jour-pot-texture.jpg",
+      "auteur": "Tara Winstead",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@tara-winstead/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/photo/6690857/",
+      "licence": "Licence Pexels : https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Pot de crème ouvert posé sur un linge, avec un tube et un flacon en arrière-plan",
+      "legende": "Photo d’illustration : la texture se juge à l’usage, la formule se juge sur l’étiquette.",
+      "telecharge_le": "2026-09-08"
     }
   ]
 }
