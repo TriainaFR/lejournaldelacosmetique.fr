@@ -1,6 +1,6 @@
 {
   "a_propos": "Provenance de chaque image hébergée sur lejournaldelacosmetique.fr. Toute photographie publiée doit figurer ici avec son auteur, sa source et sa licence.",
-  "mis_a_jour": "2026-09-08",
+  "mis_a_jour": "2026-09-09",
   "images": [
     {
       "fichier": "images/articles/inci-lire-etiquette-rayon.jpg",
@@ -811,6 +811,32 @@
       "alt": "Pot de crème ouvert posé sur un linge, avec un tube et un flacon en arrière-plan",
       "legende": "Photo d’illustration : la texture se juge à l’usage, la formule se juge sur l’étiquette.",
       "telecharge_le": "2026-09-08"
+    },
+    {
+      "fichier": "images/articles/nuit-routine-chevet.jpg",
+      "auteur": "cottonbro studio",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@cottonbro/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/photo/4058765/",
+      "licence": "Licence Pexels : https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration, image de une",
+      "alt": "Une femme applique un soin le soir, assise au bord d’un lit sous une lampe de chevet",
+      "legende": "Photo d’illustration : le soin du soir est le seul moment où la texture peut être grasse sans conséquence.",
+      "telecharge_le": "2026-09-09",
+      "modification": "recadrée en 16/9 depuis un original vertical"
+    },
+    {
+      "fichier": "images/articles/nuit-plateau-flacons.jpg",
+      "auteur": "Cup of Couple",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@cup-of-couple/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/photo/6634174/",
+      "licence": "Licence Pexels : https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Deux mains ouvrent un flacon compte-gouttes ambré posé sur un plateau en bois, à côté d’un rouleau de jade",
+      "legende": "Photo d’illustration : le soin du soir s’empile volontiers. C’est aussi là que les erreurs de combinaison se paient.",
+      "telecharge_le": "2026-09-09",
+      "modification": "recadrée en 3/2 depuis un original vertical"
     }
   ]
 }

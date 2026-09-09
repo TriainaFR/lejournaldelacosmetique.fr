@@ -23,9 +23,9 @@ from datetime import date
 
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://www.lejournaldelacosmetique.fr"
-AUJ = "8 septembre 2026"
-AUJ_ISO = "2026-09-08"
-AUJ_COURT = "08.09.2026"
+AUJ = "9 septembre 2026"
+AUJ_ISO = "2026-09-09"
+AUJ_COURT = "09.09.2026"
 
 # ————————————————————————————————————————————————————————————————
 # RUBRIQUES — l'ordre est celui de la classification en page d'accueil
@@ -417,6 +417,23 @@ CORPUS = [
             "Cinq argumentaires sur huit annon\u00e7aient un actif qui ne figure pas dans la composition.",
       img="/images/articles/cremes-jour-deux-pots.jpg",
       alt="Deux pots de cr\u00e8me ouverts, vus de dessus sur un fond clair"),
+
+    # ————— Soin visage —————
+    A("soin-visage",
+      "Meilleures cr\u00e8mes de nuit 2026 : notre classement des marques",
+      "Classement",
+      "9 septembre 2026", "2026-09-09",
+      "17 min",
+      "/soin-visage/meilleures-cremes-de-nuit-comparatif-marques/",
+      ("cr\u00e8me de nuit", "meilleure cr\u00e8me de nuit", "classement cr\u00e8mes de nuit",
+       "cr\u00e8me de nuit anti-\u00e2ge", "cr\u00e8me de nuit bio", "r\u00e9tinol",
+       "rythme circadien", "perte insensible en eau", "liste INCI", "CeraVe",
+       "Est\u00e9e Lauder", "Vichy", "Weleda", "Clarins", "Sanoflore"),
+      une=True,
+      chapo="Quatorze soins class\u00e9s de la premi\u00e8re \u00e0 la quatorzi\u00e8me place. Trois d\u2019entre eux "
+            "ne sont pas des cr\u00e8mes de nuit, et nous le disons avant de citer les notes.",
+      img="/images/articles/nuit-routine-chevet.jpg",
+      alt="Une femme applique un soin le soir, assise au bord d\u2019un lit sous une lampe de chevet"),
 
     # ————————————————————————————————————————————————————————————
     # Pour publier un nouvel article : ajouter une entrée sur ce modèle,
