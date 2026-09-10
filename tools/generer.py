@@ -23,9 +23,9 @@ from datetime import date
 
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://www.lejournaldelacosmetique.fr"
-AUJ = "9 septembre 2026"
-AUJ_ISO = "2026-09-09"
-AUJ_COURT = "09.09.2026"
+AUJ = "10 septembre 2026"
+AUJ_ISO = "2026-09-10"
+AUJ_COURT = "10.09.2026"
 
 # ————————————————————————————————————————————————————————————————
 # RUBRIQUES — l'ordre est celui de la classification en page d'accueil
@@ -434,6 +434,23 @@ CORPUS = [
             "ne sont pas des cr\u00e8mes de nuit, et nous le disons avant de citer les notes.",
       img="/images/articles/nuit-routine-chevet.jpg",
       alt="Une femme applique un soin le soir, assise au bord d\u2019un lit sous une lampe de chevet"),
+
+    # ————— Soin visage —————
+    A("soin-visage",
+      "Meilleurs s\u00e9rums anti-\u00e2ge 2026 : notre classement des marques",
+      "Classement",
+      "10 septembre 2026", "2026-09-10",
+      "16 min",
+      "/soin-visage/meilleurs-serums-anti-age-marques-comparatif/",
+      ("s\u00e9rum anti-\u00e2ge", "s\u00e9rum anti-rides", "classement s\u00e9rums",
+       "vitamine C", "acide L-ascorbique", "r\u00e9tinol", "peptides", "argireline",
+       "rhamnose", "SkinCeuticals", "La Roche-Posay", "Typology", "The Ordinary",
+       "liste INCI", "60 Millions de Consommateurs"),
+      une=True,
+      chapo="Huit s\u00e9rums class\u00e9s de la premi\u00e8re \u00e0 la huiti\u00e8me place, de 8 \u00e0 185 \u20ac. "
+            "Quatre fiches sur huit d\u00e9crivaient autre chose que le produit vendu.",
+      img="/images/articles/serums-mains-pipette.jpg",
+      alt="Des mains \u00e2g\u00e9es d\u00e9posent un s\u00e9rum au compte-gouttes sur le dos de la main"),
 
     # ————————————————————————————————————————————————————————————
     # Pour publier un nouvel article : ajouter une entrée sur ce modèle,

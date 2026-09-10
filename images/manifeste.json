@@ -1,6 +1,6 @@
 {
   "a_propos": "Provenance de chaque image hébergée sur lejournaldelacosmetique.fr. Toute photographie publiée doit figurer ici avec son auteur, sa source et sa licence.",
-  "mis_a_jour": "2026-09-09",
+  "mis_a_jour": "2026-09-10",
   "images": [
     {
       "fichier": "images/articles/inci-lire-etiquette-rayon.jpg",
@@ -836,6 +836,32 @@
       "alt": "Deux mains ouvrent un flacon compte-gouttes ambré posé sur un plateau en bois, à côté d’un rouleau de jade",
       "legende": "Photo d’illustration : le soin du soir s’empile volontiers. C’est aussi là que les erreurs de combinaison se paient.",
       "telecharge_le": "2026-09-09",
+      "modification": "recadrée en 3/2 depuis un original vertical"
+    },
+    {
+      "fichier": "images/articles/serums-mains-pipette.jpg",
+      "auteur": "Towfiqu barbhuiya",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@towfiqu-barbhuiya-3440682/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/photo/9755380/",
+      "licence": "Licence Pexels : https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration, image de une",
+      "alt": "Des mains âgées déposent un sérum au compte-gouttes sur le dos de la main",
+      "legende": "Photo d’illustration : sur un sérum, ce qui compte tient dans la liste des ingrédients, rarement sur l’emballage.",
+      "telecharge_le": "2026-09-10",
+      "modification": "recadrée en 16/9 depuis un original 3/2"
+    },
+    {
+      "fichier": "images/articles/serums-goutte-paume.jpg",
+      "auteur": "PNW Production",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@pnw-prod/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/photo/9219014/",
+      "licence": "Licence Pexels : https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Une main tient un compte-gouttes au-dessus d’une paume ouverte, plusieurs flacons posés à côté",
+      "legende": "Photo d’illustration : deux à trois gouttes suffisent. Au-delà, on paie surtout du produit qui reste sur les doigts.",
+      "telecharge_le": "2026-09-10",
       "modification": "recadrée en 3/2 depuis un original vertical"
     }
   ]
