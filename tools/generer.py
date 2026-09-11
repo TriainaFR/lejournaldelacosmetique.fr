@@ -23,9 +23,9 @@ from datetime import date
 
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://www.lejournaldelacosmetique.fr"
-AUJ = "10 septembre 2026"
-AUJ_ISO = "2026-09-10"
-AUJ_COURT = "10.09.2026"
+AUJ = "11 septembre 2026"
+AUJ_ISO = "2026-09-11"
+AUJ_COURT = "11.09.2026"
 
 # ————————————————————————————————————————————————————————————————
 # RUBRIQUES — l'ordre est celui de la classification en page d'accueil
@@ -451,6 +451,22 @@ CORPUS = [
             "Quatre fiches sur huit d\u00e9crivaient autre chose que le produit vendu.",
       img="/images/articles/serums-mains-pipette.jpg",
       alt="Des mains \u00e2g\u00e9es d\u00e9posent un s\u00e9rum au compte-gouttes sur le dos de la main"),
+
+    A("soin-visage",
+      "Meilleurs nettoyants visage 2026 : notre classement des marques",
+      "Classement",
+      "11 septembre 2026", "2026-09-11",
+      "22 min",
+      "/soin-visage/meilleurs-nettoyants-visage-comparatif-marques/",
+      ("nettoyant visage", "meilleur nettoyant visage", "classement nettoyants visage",
+       "nettoyant visage pharmacie", "gel nettoyant", "mousse nettoyante", "baume d\u00e9maquillant",
+       "double cleansing", "tensioactifs", "sulfates", "savon", "liste INCI",
+       "La Roche-Posay", "CeraVe", "Augustinus Bader", "Clinique", "The Ordinary"),
+      une=True,
+      chapo="Douze nettoyants class\u00e9s de la premi\u00e8re \u00e0 la douzi\u00e8me place. "
+            "Onze fiches sur douze citaient des ingr\u00e9dients absents de la formule.",
+      img="/images/articles/nettoyants-mousse-visage.jpg",
+      alt="Une femme aux yeux ferm\u00e9s, le visage couvert de mousse, se masse les joues du bout des doigts"),
 
     # ————————————————————————————————————————————————————————————
     # Pour publier un nouvel article : ajouter une entrée sur ce modèle,

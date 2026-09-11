@@ -1,6 +1,6 @@
 {
   "a_propos": "Provenance de chaque image hébergée sur lejournaldelacosmetique.fr. Toute photographie publiée doit figurer ici avec son auteur, sa source et sa licence.",
-  "mis_a_jour": "2026-09-10",
+  "mis_a_jour": "2026-09-11",
   "images": [
     {
       "fichier": "images/articles/inci-lire-etiquette-rayon.jpg",
@@ -863,6 +863,32 @@
       "legende": "Photo d’illustration : deux à trois gouttes suffisent. Au-delà, on paie surtout du produit qui reste sur les doigts.",
       "telecharge_le": "2026-09-10",
       "modification": "recadrée en 3/2 depuis un original vertical"
+    },
+    {
+      "fichier": "images/articles/nettoyants-mousse-visage.jpg",
+      "auteur": "Karola G",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@karola-g/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/photo/5241030/",
+      "licence": "Licence Pexels : https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Une femme aux yeux fermés, le visage couvert de mousse, se masse les joues du bout des doigts",
+      "legende": "Photo d’illustration : la mousse ne dit rien de la douceur d’un nettoyant. C’est le tensioactif qui décide.",
+      "telecharge_le": "2026-09-11",
+      "modification": "recadrée en 16/9 et redimensionnée"
+    },
+    {
+      "fichier": "images/articles/nettoyants-rincage-homme.jpg",
+      "auteur": "Ron Lach",
+      "profil_auteur": "https://www.pexels.com/fr-fr/@ron-lach/",
+      "source": "Pexels",
+      "page_source": "https://www.pexels.com/photo/8159649/",
+      "licence": "Licence Pexels : https://www.pexels.com/fr-fr/license/",
+      "usage": "photo d'illustration",
+      "alt": "Un homme aux cheveux blond platine fait mousser un nettoyant sur ses joues, dans une salle de bains carrelée",
+      "legende": "Photo d’illustration : une minute de massage, c’est le temps de contact d’un nettoyant. Trop peu pour qu’un actif anti-âge travaille.",
+      "telecharge_le": "2026-09-11",
+      "modification": "recadrée en 3/2 et redimensionnée"
     }
   ]
 }

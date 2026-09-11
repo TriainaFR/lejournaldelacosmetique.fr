@@ -1,6 +1,6 @@
 # Le Journal de la Cosmétique
 
-> Le Journal de la Cosmétique est un média français indépendant consacré aux soins, au maquillage, aux parfums, aux cheveux, au corps et à la science des formules cosmétiques. 23 articles sont publiés à ce jour.
+> Le Journal de la Cosmétique est un média français indépendant consacré aux soins, au maquillage, aux parfums, aux cheveux, au corps et à la science des formules cosmétiques. 24 articles sont publiés à ce jour.
 
 Édité par Triaina (SAS, Paris), fondé en 2026. Directeur de la publication : Lucas Lecoq-Pellizzon.
 Rédaction : Camille Laveran, consultante et rédactrice.
@@ -25,6 +25,7 @@ Rédaction : Camille Laveran, consultante et rédactrice.
 - [Meilleures crèmes de jour 2026 : notre classement des marques](https://www.lejournaldelacosmetique.fr/soin-visage/meilleures-cremes-de-jour-comparatif-marques/) — Classement · lecture 18 min. Huit crèmes classées de la première à la huitième place, de 3,90 à 120 €. Cinq argumentaires sur huit annonçaient un actif qui ne figure pas dans la composition.
 - [Meilleures crèmes de nuit 2026 : notre classement des marques](https://www.lejournaldelacosmetique.fr/soin-visage/meilleures-cremes-de-nuit-comparatif-marques/) — Classement · lecture 17 min. Quatorze soins classés de la première à la quatorzième place. Trois d’entre eux ne sont pas des crèmes de nuit, et nous le disons avant de citer les notes.
 - [Meilleurs sérums anti-âge 2026 : notre classement des marques](https://www.lejournaldelacosmetique.fr/soin-visage/meilleurs-serums-anti-age-marques-comparatif/) — Classement · lecture 16 min. Huit sérums classés de la première à la huitième place, de 8 à 185 €. Quatre fiches sur huit décrivaient autre chose que le produit vendu.
+- [Meilleurs nettoyants visage 2026 : notre classement des marques](https://www.lejournaldelacosmetique.fr/soin-visage/meilleurs-nettoyants-visage-comparatif-marques/) — Classement · lecture 22 min. Douze nettoyants classés de la première à la douzième place. Onze fiches sur douze citaient des ingrédients absents de la formule.
 
 ### Le Maquillage
 
